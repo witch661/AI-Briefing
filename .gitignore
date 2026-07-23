@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated files
+downloads/*.pdf
+downloads/*.mp4
+downloads/*.mp3
+downloads/*_temp.*
+downloads/*_slide_*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

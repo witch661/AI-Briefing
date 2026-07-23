@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 新闻周报</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-banner">
+                <div class="banner-content">
+                    <span class="internal-label">内部资料</span>
+                    <h1>AI 新闻周报</h1>
+                    <p class="subtitle">Weekly AI News Briefing</p>
+                </div>
+            </div>
+            <div class="header-actions">
+                <span class="date-display" id="dateDisplay">加载中...</span>
+                <button class="btn btn-fetch" id="btnFetch" onclick="fetchLiveNews()">
+                    获取本周AI简报
+                </button>
+                <button class="btn btn-download" id="btnDownloadPdf" onclick="downloadPdf()" style="display:none">
+                    <span class="btn-icon">&#128196;</span> 下载 PDF 简报
+                </button>
+                <button class="btn btn-download" id="btnDownloadMp4" onclick="downloadMp4()" style="display:none">
+                    <span class="btn-icon">&#127916;</span> 下载朗读视频
+                </button>
+                <button class="btn btn-audio" id="btnListen" onclick="toggleListen()" style="display:none">
+                    <span class="btn-icon" id="audioIcon">&#128266;</span> <span id="audioText">朗读简报</span>
+                </button>
+            </div>
+        </header>
+
+        <main class="main-content" id="mainContent">
+            <div class="welcome-hint">
+                <p>点击上方 <strong>"获取本周AI简报"</strong> 按钮，实时抓取过去 7 天的 AI 新闻并生成简报。</p>
+                <p class="hint-sub">支持反复点击刷新，数据来源包括 Ars Technica、MIT Technology Review、VentureBeat、Unite.AI、爱范儿、品玩等。</p>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>AI 新闻周报 - 自动生成于 <span id="footerDate"></span></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
