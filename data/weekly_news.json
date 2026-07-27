@@ -1,95 +1,37 @@
 {
-  "week": "2026年第30周",
-  "dateRange": "2026-07-20 至 2026-07-26",
-  "generatedAt": "2026-07-23T10:00:00Z",
+  "week": "2026年第31周",
+  "dateRange": "2026-07-27 至 2026-08-02",
+  "generatedAt": "2026-07-27T11:29:19.245094Z",
   "modules": [
     {
       "name": "政声传递",
       "description": "政府政策、法规、顶层设计、部委动态",
-      "news": [
-        {
-          "title": "国务院发布《人工智能产业发展规划（2026-2030年）》",
-          "source": "国务院",
-          "importance": "high",
-          "summary": "国务院正式印发人工智能产业发展五年规划，明确到2030年建成全球领先的人工智能创新体系，重点布局大模型、具身智能、量子计算等前沿领域。",
-          "link": "https://www.gov.cn/example1",
-          "publishedAt": "2026-07-22"
-        },
-        {
-          "title": "工信部启动AI算力基础设施专项行动",
-          "source": "工信部",
-          "importance": "medium",
-          "summary": "工信部联合发改委启动新一轮AI算力基础设施建设行动，计划在全国布局20个智算中心，总投资超过500亿元。",
-          "link": "https://www.miit.gov.cn/example2",
-          "publishedAt": "2026-07-21"
-        }
-      ]
+      "news": []
     },
     {
       "name": "他山之石",
       "description": "外地区/城市经验、试点示范、区域发展",
-      "news": [
-        {
-          "title": "深圳率先出台AI大模型备案管理细则",
-          "source": "深圳特区报",
-          "importance": "medium",
-          "summary": "深圳市发布全国首个地方性AI大模型备案管理实施细则，为大模型上线运营提供明确规范指引，被视为行业监管的重要里程碑。",
-          "link": "https://www.szdaily.com/example3",
-          "publishedAt": "2026-07-22"
-        },
-        {
-          "title": "上海浦东AI应用创新示范区正式挂牌",
-          "source": "上海发布",
-          "importance": "low",
-          "summary": "浦东新区获批建设AI应用创新示范区，将聚焦智能制造、智慧医疗、自动驾驶三大场景，打造AI落地应用标杆。",
-          "link": "https://www.shanghai.gov.cn/example4",
-          "publishedAt": "2026-07-20"
-        }
-      ]
+      "news": []
     },
     {
       "name": "产业动态",
       "description": "企业产品发布、技术突破、市场融资、行业会议",
       "news": [
         {
-          "title": "OpenAI发布GPT-5，多模态能力大幅提升",
-          "source": "Ars Technica",
-          "importance": "high",
-          "summary": "OpenAI正式发布GPT-5大语言模型，在推理能力、多模态理解和长上下文处理方面实现重大突破，支持百万级token上下文窗口。",
-          "link": "https://arstechnica.com/example5",
-          "publishedAt": "2026-07-23"
-        },
-        {
-          "title": "Google DeepMind推出新一代蛋白质预测模型AlphaFold 4",
-          "source": "MIT Technology Review",
-          "importance": "high",
-          "summary": "DeepMind发布AlphaFold 4，首次实现蛋白质与RNA、小分子药物的三元复合物结构预测，将加速新药研发进程。",
-          "link": "https://www.technologyreview.com/example6",
-          "publishedAt": "2026-07-22"
-        },
-        {
-          "title": "百度文心一言4.0企业版正式商用",
-          "source": "品玩",
+          "title": "最直白、最不绕弯子告诉你：为什么到处都是「AI手机」？｜AG&I",
+          "source": "爱范儿",
           "importance": "medium",
-          "summary": "百度推出文心一言4.0企业版，面向企业提供定制化大模型解决方案，支持私有化部署和行业知识库训练。",
-          "link": "https://www.pingwest.com/example7",
-          "publishedAt": "2026-07-21"
+          "summary": "是产品进化，也是厂商、平台、用户共同参与的利益重组。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1673151?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-07-27"
         },
         {
-          "title": "Anthropic完成新一轮50亿美元融资",
-          "source": "VentureBeat",
-          "importance": "low",
-          "summary": "AI安全公司Anthropic宣布完成50亿美元新一轮融资，估值达到600亿美元，资金将用于继续研发Claude系列模型。",
-          "link": "https://venturebeat.com/example8",
-          "publishedAt": "2026-07-20"
-        },
-        {
-          "title": "英伟达发布Blackwell Ultra GPU，AI算力提升3倍",
-          "source": "AI News",
+          "title": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+          "source": "爱范儿",
           "importance": "high",
-          "summary": "英伟达在SIGGRAPH 2026上发布Blackwell Ultra架构GPU，相比上一代AI训练性能提升3倍，能效比提升4倍。",
-          "link": "https://www.ainews.com/example9",
-          "publishedAt": "2026-07-23"
+          "summary": "· OpenAI 签署支持 AI 开源模型发展公开信 · 马斯克：X 下月开放更多系统代码并接受审计 · 曝 Anthropic 向 SK 寻求自研芯片所需供应·#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1673132?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-07-27"
         }
       ]
     },
@@ -98,20 +40,12 @@
       "description": "其他 AI 相关新闻",
       "news": [
         {
-          "title": "全球AI伦理峰会达成《日内瓦共识》",
+          "title": "Opus 5 砍掉超 80% 系统提示词，我们用 AI 的方式也该变了 ｜附指南",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "来自50个国家的代表在日内瓦达成AI伦理治理共识文件，就AI安全、透明度、公平性等核心原则达成一致。",
-          "link": "https://www.ifanr.com/example10",
-          "publishedAt": "2026-07-22"
-        },
-        {
-          "title": "AI辅助诊断系统获批FDA认证，可检测早期胰腺癌",
-          "source": "Unite.AI",
-          "importance": "high",
-          "summary": "一款基于深度学习的AI医疗诊断系统获得FDA批准，可在CT扫描中检测早期胰腺癌，准确率达到95%以上。",
-          "link": "https://www.unite.ai/example11",
-          "publishedAt": "2026-07-21"
+          "summary": "不想被 AI 淘汰就要学着当 AI 的老板#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1673165?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-07-27"
         }
       ]
     }
