@@ -1,7 +1,7 @@
 {
-  "week": "2026年第31周",
-  "dateRange": "2026-07-27 至 2026-08-02",
-  "generatedAt": "2026-07-27T11:29:19.245094Z",
+  "week": "2026年第32周",
+  "dateRange": "2026-08-03 至 2026-08-09",
+  "generatedAt": "2026-08-03T11:30:05.573187Z",
   "modules": [
     {
       "name": "政声传递",
@@ -18,20 +18,36 @@
       "description": "企业产品发布、技术突破、市场融资、行业会议",
       "news": [
         {
-          "title": "最直白、最不绕弯子告诉你：为什么到处都是「AI手机」？｜AG&I",
+          "title": "大五座市场又有新产品：小鹏 G9L 增程纯电两手抓，既要好开还要好坐",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "是产品进化，也是厂商、平台、用户共同参与的利益重组。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1673151?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-07-27"
+          "summary": "拥挤的大五座市场又迎来了新车。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1673763?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-03"
         },
         {
-          "title": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+          "title": "机器人刷一段「短视频」，就能学会新技能？自变量 HOST 技术「神器」来了",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "机器人学习做家务，进入「刷短视频」时代#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1673600?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-03"
+        },
+        {
+          "title": "DeepSeek 给大模型划出的「斩杀线」，斩的到底是什么",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "斩掉了大量缺乏明确不可替代性的中间模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1673651?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-03"
+        },
+        {
+          "title": "早报｜MacBook Air严重缺货/OpenAI新模型突破10项菲尔兹奖级难题/微信地震预警能力迎来更新",
           "source": "爱范儿",
           "importance": "high",
-          "summary": "· OpenAI 签署支持 AI 开源模型发展公开信 · 马斯克：X 下月开放更多系统代码并接受审计 · 曝 Anthropic 向 SK 寻求自研芯片所需供应·#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1673132?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-07-27"
+          "summary": "· MacBook Air 严重缺货，许多新订单延至 9 月交付 · 曾爱玲加入 B 站，负责 AI 视频生成业务 · Pixel 11 全系规格与售价曝光#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1673624?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-03"
         }
       ]
     },
@@ -40,12 +56,68 @@
       "description": "其他 AI 相关新闻",
       "news": [
         {
-          "title": "Opus 5 砍掉超 80% 系统提示词，我们用 AI 的方式也该变了 ｜附指南",
+          "title": "Here’s why AI agents lie and cheat to reach their goals",
+          "source": "MIT Technology Review",
+          "importance": "medium",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
+          "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+          "publishedAt": "2026-08-03"
+        },
+        {
+          "title": "AI’s Biggest Hidden Cost Isn’t Compute. It’s People.",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Everyone is talking about the cost of AI. Usually they&#039;re talking about GPUs, model licensing, or token consumption. I think they&#039;re looking in the wrong place. The biggest cost of enterprise AI may turn out to be the people needed to supervise it. A recent study found employees save about",
+          "link": "https://www.unite.ai/hidden-cost-of-enterprise-ai-botsitting/",
+          "publishedAt": "2026-08-03"
+        },
+        {
+          "title": "Dhivya Nagasubramanian, VP of AI Transformation and Innovation – Interview Series",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Dhivya Nagasubramanian is VP of AI Transformation and Innovation at a major U.S. financial institution, where she leads the design, deployment, and governance of production agentic AI systems. She is the author of Agentic AI for Engineers (Apress/Springer Nature), a practical guide to building auton",
+          "link": "https://www.unite.ai/dhivya-nagasubramanian-vp-of-ai-transformation-and-innovation-interview-series/",
+          "publishedAt": "2026-08-03"
+        },
+        {
+          "title": "RWS Buys Acolad’s Parent to Scale Its AI Platforms in Europe",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "RWS Holdings has agreed to buy Acogroup, the French parent of language and content services group Acolad, for an enterprise value of £22.4 million (€26.0 million), a price the AIM-listed acquirer puts at two times Acolad&#039;s adjusted EBITDA for the year to 30 September 2027. The cheque is larger ",
+          "link": "https://www.unite.ai/rws-buys-acolads-parent-to-scale-its-ai-platforms-in-europe/",
+          "publishedAt": "2026-08-03"
+        },
+        {
+          "title": "Alibaba’s Amap Runs a World Model for 24 Hours on One GPU",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Amap, Alibaba&#039;s location-based services platform, says its interactive world model ABot-World-0 now sustains a single continuous session for as long as 24 hours on one consumer graphics card, and it has published the whole run as a seekable record rather than a highlight reel. The page lets any",
+          "link": "https://www.unite.ai/alibabas-amap-runs-a-world-model-for-24-hours-on-one-gpu/",
+          "publishedAt": "2026-08-03"
+        },
+        {
+          "title": "The Worst First Job You Can Give an Agent Is the Visible One",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Companies tend to pick their first agent job the same way. Somebody asks what AI could do for us, and the room converges on the work everyone can picture: write our blog posts, answer our customers, handle the inbox. It&#039;s the most visible work in the building, so it&#039;s the work that comes t",
+          "link": "https://www.unite.ai/the-worst-first-job-you-can-give-an-agent-is-the-visible-one/",
+          "publishedAt": "2026-08-03"
+        },
+        {
+          "title": "对话卓驭 CEO 沈劭劼：汽车在被撞前 0.01 秒退出智驾肯定是不行的",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "不想被 AI 淘汰就要学着当 AI 的老板#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1673165?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-07-27"
+          "summary": "做智能辅助驾驶，第一步就是先建立责任感。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1673777?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-03"
+        },
+        {
+          "title": "AI 改变打工人之后，千问办公盯上了企业 Agent 化",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "办公 Agent ，怎么提升企业组织的办公效率#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1673691?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-03"
         }
       ]
     }
