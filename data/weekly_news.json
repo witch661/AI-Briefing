@@ -1,7 +1,7 @@
 {
-  "week": "2026年第32周",
-  "dateRange": "2026-08-03 至 2026-08-09",
-  "generatedAt": "2026-08-03T11:30:05.573187Z",
+  "week": "2026年第33周",
+  "dateRange": "2026-08-10 至 2026-08-16",
+  "generatedAt": "2026-08-10T09:27:13.719268Z",
   "modules": [
     {
       "name": "政声传递",
@@ -18,36 +18,20 @@
       "description": "企业产品发布、技术突破、市场融资、行业会议",
       "news": [
         {
-          "title": "大五座市场又有新产品：小鹏 G9L 增程纯电两手抓，既要好开还要好坐",
+          "title": "马斯克的新生图模型，让我笑了一整晚",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "拥挤的大五座市场又迎来了新车。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1673763?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-03"
+          "summary": "真正的精准编辑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1674531?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-10"
         },
         {
-          "title": "机器人刷一段「短视频」，就能学会新技能？自变量 HOST 技术「神器」来了",
+          "title": "早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "机器人学习做家务，进入「刷短视频」时代#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1673600?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-03"
-        },
-        {
-          "title": "DeepSeek 给大模型划出的「斩杀线」，斩的到底是什么",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "斩掉了大量缺乏明确不可替代性的中间模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1673651?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-03"
-        },
-        {
-          "title": "早报｜MacBook Air严重缺货/OpenAI新模型突破10项菲尔兹奖级难题/微信地震预警能力迎来更新",
-          "source": "爱范儿",
-          "importance": "high",
-          "summary": "· MacBook Air 严重缺货，许多新订单延至 9 月交付 · 曾爱玲加入 B 站，负责 AI 视频生成业务 · Pixel 11 全系规格与售价曝光#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1673624?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-03"
+          "summary": "· 苹果测试长鑫存储芯片，拟用于中国市场 iPhone 和 MacBook · SpaceX 收购 Cursor 临近落地 · Pixel 11 Pro 真机曝光：沙丘色、哑光黑，改用圆形长焦开孔#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1674507?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-10"
         }
       ]
     },
@@ -56,68 +40,60 @@
       "description": "其他 AI 相关新闻",
       "news": [
         {
-          "title": "Here’s why AI agents lie and cheat to reach their goals",
+          "title": "AI for science needs reasoning, not just data",
           "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
-          "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-          "publishedAt": "2026-08-03"
+          "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
+          "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+          "publishedAt": "2026-08-10"
         },
         {
-          "title": "AI’s Biggest Hidden Cost Isn’t Compute. It’s People.",
+          "title": "These startups are chasing the next big thing in LLMs",
+          "source": "MIT Technology Review",
+          "importance": "medium",
+          "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they des",
+          "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+          "publishedAt": "2026-08-10"
+        },
+        {
+          "title": "Edgify Raises $9M to Expand Edge AI Infrastructure for Physical Retail",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Everyone is talking about the cost of AI. Usually they&#039;re talking about GPUs, model licensing, or token consumption. I think they&#039;re looking in the wrong place. The biggest cost of enterprise AI may turn out to be the people needed to supervise it. A recent study found employees save about",
-          "link": "https://www.unite.ai/hidden-cost-of-enterprise-ai-botsitting/",
-          "publishedAt": "2026-08-03"
+          "summary": "London-based Edgify has raised $9 million in Series A+ funding to expand its edge artificial intelligence platform, bringing the company’s total funding to $25 million. The round was backed by Rank Ventures and Mangrove Capital Partners. Edgify plans to use the capital to accelerate deployments acro",
+          "link": "https://www.unite.ai/edgify-raises-9m-to-expand-edge-ai-infrastructure-for-physical-retail/",
+          "publishedAt": "2026-08-10"
         },
         {
-          "title": "Dhivya Nagasubramanian, VP of AI Transformation and Innovation – Interview Series",
+          "title": "HD Hyundai Lands 1,000 MW Engine Order to Power U.S. AI Data Centers",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Dhivya Nagasubramanian is VP of AI Transformation and Innovation at a major U.S. financial institution, where she leads the design, deployment, and governance of production agentic AI systems. She is the author of Agentic AI for Engineers (Apress/Springer Nature), a practical guide to building auton",
-          "link": "https://www.unite.ai/dhivya-nagasubramanian-vp-of-ai-transformation-and-innovation-interview-series/",
-          "publishedAt": "2026-08-03"
+          "summary": "HD Hyundai Heavy Industries has signed a contract worth $673.8 million to supply 1,000 megawatts of power generation systems to U.S. data centers, the company announced on August 9, 2026. The buyer is Corban Energy Group, a U.S. energy infrastructure developer, and the equipment will feed data cente",
+          "link": "https://www.unite.ai/hd-hyundai-lands-1000-mw-engine-order-to-power-u-s-ai-data-centers/",
+          "publishedAt": "2026-08-10"
         },
         {
-          "title": "RWS Buys Acolad’s Parent to Scale Its AI Platforms in Europe",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "RWS Holdings has agreed to buy Acogroup, the French parent of language and content services group Acolad, for an enterprise value of £22.4 million (€26.0 million), a price the AIM-listed acquirer puts at two times Acolad&#039;s adjusted EBITDA for the year to 30 September 2027. The cheque is larger ",
-          "link": "https://www.unite.ai/rws-buys-acolads-parent-to-scale-its-ai-platforms-in-europe/",
-          "publishedAt": "2026-08-03"
-        },
-        {
-          "title": "Alibaba’s Amap Runs a World Model for 24 Hours on One GPU",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "Amap, Alibaba&#039;s location-based services platform, says its interactive world model ABot-World-0 now sustains a single continuous session for as long as 24 hours on one consumer graphics card, and it has published the whole run as a seekable record rather than a highlight reel. The page lets any",
-          "link": "https://www.unite.ai/alibabas-amap-runs-a-world-model-for-24-hours-on-one-gpu/",
-          "publishedAt": "2026-08-03"
-        },
-        {
-          "title": "The Worst First Job You Can Give an Agent Is the Visible One",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "Companies tend to pick their first agent job the same way. Somebody asks what AI could do for us, and the room converges on the work everyone can picture: write our blog posts, answer our customers, handle the inbox. It&#039;s the most visible work in the building, so it&#039;s the work that comes t",
-          "link": "https://www.unite.ai/the-worst-first-job-you-can-give-an-agent-is-the-visible-one/",
-          "publishedAt": "2026-08-03"
-        },
-        {
-          "title": "对话卓驭 CEO 沈劭劼：汽车在被撞前 0.01 秒退出智驾肯定是不行的",
+          "title": "下一块 Apple Watch，苹果连屏幕都不想要",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "做智能辅助驾驶，第一步就是先建立责任感。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1673777?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-03"
+          "summary": "当手腕上的屏幕消失后，我们该如何理解自己的身体？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1674558?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-10"
         },
         {
-          "title": "AI 改变打工人之后，千问办公盯上了企业 Agent 化",
+          "title": "卡西欧小方块，是我今年最想要的智能戒指",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "办公 Agent ，怎么提升企业组织的办公效率#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1673691?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-03"
+          "summary": "我今年也买了个表#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1674518?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-10"
+        },
+        {
+          "title": "AI 开始帮写朋友圈了，但我更想念「古法手作」文字",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "想念那个「说人话」的时代#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1673846?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-10"
         }
       ]
     }
