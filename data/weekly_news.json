@@ -1,7 +1,7 @@
 {
-  "week": "2026年第33周",
-  "dateRange": "2026-08-10 至 2026-08-16",
-  "generatedAt": "2026-08-10T09:27:13.719268Z",
+  "week": "2026年第34周",
+  "dateRange": "2026-08-17 至 2026-08-23",
+  "generatedAt": "2026-08-17T08:48:36.674989Z",
   "modules": [
     {
       "name": "政声传递",
@@ -18,84 +18,27 @@
       "description": "企业产品发布、技术突破、市场融资、行业会议",
       "news": [
         {
-          "title": "马斯克的新生图模型，让我笑了一整晚",
+          "title": "拒绝「差不多」，电商模型测评迎来「最严厉的父亲」",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "真正的精准编辑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1674531?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-10"
+          "summary": "从真实需求定义任务，用仿真环境状态验证结果，建构属于电商的测试哲学#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1675338?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-17"
         },
         {
-          "title": "早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购",
+          "title": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "· 苹果测试长鑫存储芯片，拟用于中国市场 iPhone 和 MacBook · SpaceX 收购 Cursor 临近落地 · Pixel 11 Pro 真机曝光：沙丘色、哑光黑，改用圆形长焦开孔#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1674507?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-10"
+          "summary": "· 于东来：胖东来首批刑释员工无人离职，将再招 20 人 · Dario Amodei：公众反对 AI，本质上是信任危机 · 2056 台机器人将同场比跳远、举重和拧螺丝#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1675332?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-17"
         }
       ]
     },
     {
       "name": "综合关注",
       "description": "其他 AI 相关新闻",
-      "news": [
-        {
-          "title": "AI for science needs reasoning, not just data",
-          "source": "MIT Technology Review",
-          "importance": "medium",
-          "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
-          "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-          "publishedAt": "2026-08-10"
-        },
-        {
-          "title": "These startups are chasing the next big thing in LLMs",
-          "source": "MIT Technology Review",
-          "importance": "medium",
-          "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they des",
-          "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-          "publishedAt": "2026-08-10"
-        },
-        {
-          "title": "Edgify Raises $9M to Expand Edge AI Infrastructure for Physical Retail",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "London-based Edgify has raised $9 million in Series A+ funding to expand its edge artificial intelligence platform, bringing the company’s total funding to $25 million. The round was backed by Rank Ventures and Mangrove Capital Partners. Edgify plans to use the capital to accelerate deployments acro",
-          "link": "https://www.unite.ai/edgify-raises-9m-to-expand-edge-ai-infrastructure-for-physical-retail/",
-          "publishedAt": "2026-08-10"
-        },
-        {
-          "title": "HD Hyundai Lands 1,000 MW Engine Order to Power U.S. AI Data Centers",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "HD Hyundai Heavy Industries has signed a contract worth $673.8 million to supply 1,000 megawatts of power generation systems to U.S. data centers, the company announced on August 9, 2026. The buyer is Corban Energy Group, a U.S. energy infrastructure developer, and the equipment will feed data cente",
-          "link": "https://www.unite.ai/hd-hyundai-lands-1000-mw-engine-order-to-power-u-s-ai-data-centers/",
-          "publishedAt": "2026-08-10"
-        },
-        {
-          "title": "下一块 Apple Watch，苹果连屏幕都不想要",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "当手腕上的屏幕消失后，我们该如何理解自己的身体？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1674558?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-10"
-        },
-        {
-          "title": "卡西欧小方块，是我今年最想要的智能戒指",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "我今年也买了个表#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1674518?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-10"
-        },
-        {
-          "title": "AI 开始帮写朋友圈了，但我更想念「古法手作」文字",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "想念那个「说人话」的时代#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1673846?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-10"
-        }
-      ]
+      "news": []
     }
   ]
 }
