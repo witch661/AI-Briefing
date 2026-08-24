@@ -1,7 +1,7 @@
 {
-  "week": "2026年第34周",
-  "dateRange": "2026-08-17 至 2026-08-23",
-  "generatedAt": "2026-08-17T08:48:36.674989Z",
+  "week": "2026年第35周",
+  "dateRange": "2026-08-24 至 2026-08-30",
+  "generatedAt": "2026-08-24T08:53:14.778801Z",
   "modules": [
     {
       "name": "政声传递",
@@ -18,27 +18,68 @@
       "description": "企业产品发布、技术突破、市场融资、行业会议",
       "news": [
         {
-          "title": "拒绝「差不多」，电商模型测评迎来「最严厉的父亲」",
+          "title": "AI 开发者每天都要刷的网站，准备 130 亿美金卖了",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "从真实需求定义任务，用仿真环境状态验证结果，建构属于电商的测试哲学#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1675338?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-17"
+          "summary": "AI 行业下一笔百亿美元级收购，可能落在许多开发者每天都会打开的网站上：Hugging Face——对，就是前不久险些被 OpenAI 的神秘新模型攻破的那个平台。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1676393?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-24"
         },
         {
-          "title": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+          "title": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
           "source": "爱范儿",
-          "importance": "medium",
-          "summary": "· 于东来：胖东来首批刑释员工无人离职，将再招 20 人 · Dario Amodei：公众反对 AI，本质上是信任危机 · 2056 台机器人将同场比跳远、举重和拧螺丝#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1675332?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-17"
+          "importance": "high",
+          "summary": "· 小红书「上市失败」谣言造谣者被行政拘留 · DeepSeek API 周末改为全天低谷计费 · 宇树机器人百米预赛小组垫底，公司称赛事准备受限#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1676314?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-24"
         }
       ]
     },
     {
       "name": "综合关注",
       "description": "其他 AI 相关新闻",
-      "news": []
+      "news": [
+        {
+          "title": "英伟达押注 Perplexity，但它真的值 300 亿美金吗？",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "现在，他们把筹码压到了 AI 应用公司上了——这次看上的，是曾经的 AI 明星公司 Perplexity。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1676435?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-24"
+        },
+        {
+          "title": "折叠 iPhone 最全爆料汇总：用过的都说好，但有两个大缺点",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "一万五的 iPhone，你会买吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1676426?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-24"
+        },
+        {
+          "title": "50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "一座专属的「AI 片场」，影视专家易用、可依赖的基建。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1676318?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-24"
+        },
+        {
+          "title": "100 万像素的摄像头，为什么是苹果 AI 最重要的零件？｜硬哲学",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "随时在的硬件，记录完整的你#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1676333?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-24"
+        },
+        {
+          "title": "巴掌大的墨水屏，为什么是现在最火的 AI 终端｜AI 器物志",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "Less is more.#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1675741?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-08-24"
+        }
+      ]
     }
   ]
 }
