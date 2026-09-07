@@ -1,7 +1,7 @@
 {
-  "week": "2026年第36周",
-  "dateRange": "2026-08-31 至 2026-09-06",
-  "generatedAt": "2026-08-31T16:00:03.381898Z",
+  "week": "2026年第37周",
+  "dateRange": "2026-09-07 至 2026-09-13",
+  "generatedAt": "2026-09-07T14:06:13.745509Z",
   "modules": [
     {
       "name": "政声传递",
@@ -18,12 +18,28 @@
       "description": "企业产品发布、技术突破、市场融资、行业会议",
       "news": [
         {
-          "title": "制糖工厂定制送礼｜拒绝千篇一律，让你的心意真正被记住",
+          "title": "华为鸿蒙 7 发布会最全汇总：三折叠、阔直板全来了，信息密度大到让人眼花",
+          "source": "爱范儿",
+          "importance": "high",
+          "summary": "Super fast, Super intelligent#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-07"
+        },
+        {
+          "title": "把千亿模型装进笔记本，Windows 终于要反击 Mac 了",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "好产品就是一颗糖！制糖工厂推出「伴手礼专属定制」服务#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1677398?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-31"
+          "summary": "都想让 PC 成为 AI 的运行环境#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-07"
+        },
+        {
+          "title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
+          "source": "爱范儿",
+          "importance": "high",
+          "summary": "未来刚才来，它从何而来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-07"
         }
       ]
     },
@@ -32,204 +48,92 @@
       "description": "其他 AI 相关新闻",
       "news": [
         {
-          "title": "Identity and permissions aren’t enough to govern AI agent behavior",
-          "source": "VentureBeat",
+          "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+          "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "Presented by BoxIdentity and permissions are no longer enough to secure enterprise AI agents. They govern what an agent can reach, not how it behaves once it starts working on its own, and an autonomous agent can turn legitimate access of enterprise data into unintended action in seconds. That gap i",
-          "link": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior",
-          "publishedAt": "2026-08-31"
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a va",
+          "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+          "publishedAt": "2026-09-07"
         },
         {
-          "title": "What Back-to-School Shopping Reveals About the Next Phase of Retail AI",
+          "title": "9kV Solid-State Transformer Anchors Hyosung’s U.S. AI Grid Push",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Every back-to-school season compresses months of retail behavior into a few intense weeks. Families browse across websites and apps, compare prices, respond to promotions, visit stores, join loyalty programs and make purchases across categories ranging from apparel to electronics. This year, that ac",
-          "link": "https://www.unite.ai/retail-ai-customer-identity-seasonal-retention/",
-          "publishedAt": "2026-08-31"
+          "summary": "Hyosung Heavy Industries said on September 7, 2026, that it is accelerating its push into the U.S. AI data center power market, combining the 22.9kV solid-state transformer it developed in 2022 with completed American production bases for ultra-high-voltage transformers and circuit breakers. In the ",
+          "link": "https://www.unite.ai/9kv-solid-state-transformer-anchors-hyosungs-u-s-ai-grid-push/",
+          "publishedAt": "2026-09-07"
         },
         {
-          "title": "HUMAIN and KORA Partner to Build AI-Native Linux OS at LEAP 2026",
+          "title": "What Is a Foundation Model? How General-Purpose AI Is Built and Adapted",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "HUMAIN, a PIF company delivering full-stack artificial intelligence capabilities, and KORA Systems Inc. announced a strategic engineering and co-development partnership on August 31, 2026, at LEAP 2026 in Riyadh to build HUMAIN OS, an enterprise-grade, AI-native Linux operating system, according to ",
-          "link": "https://www.unite.ai/humain-and-kora-partner-to-build-ai-native-linux-os-at-leap-2026/",
-          "publishedAt": "2026-08-31"
+          "summary": "Foundation models are large, broadly trained models that can be adapted to many downstream tasks through prompting, retrieval, fine-tuning, or additional components. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
+          "link": "https://www.unite.ai/what-is-a-foundation-model-how-general-purpose-ai-is-built-and-adapted/",
+          "publishedAt": "2026-09-07"
         },
         {
-          "title": "Phil Marshall, Founder and CEO of Spoken – Interview Series",
+          "title": "Proteomic Aging Clocks Track Biological Age Reversal in Rentosertib Trial",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Phil Marshall, Founder and CEO of Spoken, is a physician, inventor, technology entrepreneur, and science fiction writer whose career has spanned healthcare, digital media, artificial intelligence, and product innovation. Before launching Spoken in 2024, Marshall co-founded Conversa Health, a persona",
-          "link": "https://www.unite.ai/phil-marshall-founder-and-ceo-of-spoken-interview-series/",
-          "publishedAt": "2026-08-31"
+          "summary": "Researchers from Insilico Medicine and an international group of academic collaborators have applied six independently developed proteomic aging clocks to blood samples from a Phase IIa trial of the AI-designed drug rentosertib, finding that all six models consistently predicted lower biological age",
+          "link": "https://www.unite.ai/proteomic-aging-clocks-track-biological-age-reversal-in-rentosertib-trial/",
+          "publishedAt": "2026-09-07"
         },
         {
-          "title": "Fireworks AI Makes Training API Generally Available",
+          "title": "UST Completes Majority Stake Acquisition of Italdesign From Audi",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Fireworks AI on August 31, 2026 announced the general availability of its Training API and Fireworks Lab, opening its managed training and rollout infrastructure to ML teams that want to run custom training loops on open models. The Training API connects a customer&#039;s own Python training loop to",
-          "link": "https://www.unite.ai/fireworks-ai-makes-training-api-generally-available/",
-          "publishedAt": "2026-08-31"
+          "summary": "UST, a US-based AI and technology transformation company, has completed the acquisition of a majority stake in Italian design and engineering firm Italdesign from the Audi Group, announced September 7, 2026. The transaction closes a deal first signed in December 2025 and transfers majority control o",
+          "link": "https://www.unite.ai/ust-completes-majority-stake-acquisition-of-italdesign-from-audi/",
+          "publishedAt": "2026-09-07"
         },
         {
-          "title": "Department of War Launches OpenAI’s ChatGPT Mil on GenAI.mil",
+          "title": "Google, Cathay Pacific Expand Contrail Avoidance Trials in Asia-Pacific",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "The Department of War launched OpenAI&#039;s ChatGPT Mil on its GenAI.mil platform on August 31, 2026, adding a custom version of the chatbot accredited for Controlled Unclassified Information at Impact Level 5 and built to support more than 3 million Department personnel. The Department said the la",
-          "link": "https://www.unite.ai/department-of-war-launches-openais-chatgpt-mil-on-genai-mil/",
-          "publishedAt": "2026-08-31"
+          "summary": "Google is partnering with Cathay Pacific to test AI-powered contrail avoidance on ultra-long-haul flights across Asia-Pacific, the company announced on September 7, 2026, reporting that early trial flights reduced the warming impact of contrails by an estimated 40%. Cathay Pacific is Google&#039;s f",
+          "link": "https://www.unite.ai/google-cathay-pacific-expand-contrail-avoidance-trials-in-asia-pacific/",
+          "publishedAt": "2026-09-07"
         },
         {
-          "title": "Instagram Renames AI Profile Label and Restricts Unlabeled Accounts",
+          "title": "NEURA and SECO Partner on Robot Compute Modules Built in Europe",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Instagram on August 31, 2026 renamed its AI creator label to &quot;AI-generated profile&quot; and said it will limit the reach of profiles that feature an AI-generated person but do not carry the label, in an announcement on its creators blog. Under the updated policy, accounts whose profile feature",
-          "link": "https://www.unite.ai/instagram-renames-ai-creator-label-and-restricts-unlabeled-ai-generated-profiles/",
-          "publishedAt": "2026-08-31"
+          "summary": "NEURA Robotics and SECO announced a strategic partnership on September 7, 2026, under which the Italian embedded-computing company will design, engineer and manufacture electronic compute modules for NEURA&#039;s cognitive robots, including the humanoid 4NE1. The companies&#039; joint announcement, ",
+          "link": "https://www.unite.ai/neura-and-seco-partner-on-robot-compute-modules-built-in-europe/",
+          "publishedAt": "2026-09-07"
         },
         {
-          "title": "Carrick Capital Closes $600M Continuation Vehicle, Commits $255M to Saviynt",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "Carrick Capital Partners said on August 31, 2026 that it has closed a single-asset continuation vehicle for identity security company Saviynt with approximately $600 million in capital commitments, including a new $255 million investment that the firm described as the largest in its history. Accordi",
-          "link": "https://www.unite.ai/carrick-capital-closes-600m-continuation-vehicle-commits-255m-to-saviynt/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "California Legislature Passes Independent AI Safety Verification Bill",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "The California Legislature gave final approval on August 30, 2026, to SB 813, legislation authored by Senator Jerry McNerney that would direct the Government Operations Agency to designate independent verification organizations — outside auditors qualified to assess the safety risks of AI systems an",
-          "link": "https://www.unite.ai/california-legislature-passes-independent-ai-safety-verification-bill/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "NVIDIA and MediaTek Expand Partnership to Build AI Edge-to-Cloud Platforms",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "NVIDIA and MediaTek on August 31, 2026, announced an expansion of their long-standing collaboration to build the next generations of AI computing platforms spanning AI infrastructure, local AI computing and automotive. As part of the announcement, NVIDIA said it has invested $3.5 billion in converti",
-          "link": "https://www.unite.ai/nvidia-and-mediatek-expand-partnership-to-build-ai-edge-to-cloud-platforms/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "The CIO Accountability Gap: Leading in an Era of Distributed Technology",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "Technology decisions are spreading across the enterprise, but responsibility for risk and resilience still lands with IT Something subtle has changed in the CIO role. Technology is no longer delivered to the business; it’s adopted and modified across the business, among multiple divisions, every day",
-          "link": "https://www.unite.ai/evolving-cio-role-ai-governance-distributed-technology/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "OpenGov AI Helps Kansas City Cut Its Projected Maintenance Backlog",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "OpenGov announced on August 31, 2026, that Kansas City, Missouri, used its Enterprise Asset Management platform to overhaul road maintenance, nearly tripling annual resurfacing output and cutting a projected maintenance backlog by more than half after the city confronted a deferred maintenance bill ",
-          "link": "https://www.unite.ai/opengov-showcases-ai-tools-as-kansas-city-cuts-4b-maintenance-backlog/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "What Is AI Inference? How Trained Models Produce Answers in Production",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "AI inference is the production-time process in which a trained model receives new inputs and computes predictions, generated tokens, actions, or representations. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
-          "link": "https://www.unite.ai/what-is-ai-inference-how-trained-models-produce-answers-in-production/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "The Biggest Challenge Facing Physical AI May Be Physical, Not Artificial",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "Behind almost every headline-grabbing demo in the Physical AI industry sits the same truth: the machine is a prototype, and prototypes are not products. Building one working robot is an engineering feat. Building the thousandth one, at a cost someone will pay, without a team of specialists standing ",
-          "link": "https://www.unite.ai/physical-ai-hardware-manufacturing-supply-chain-scaling/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "Andreea Pleşea, PhD, COO and Co-Founder of Druid AI – Interview Series",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "Andreea Pleşea, PhD, COO and Co-Founder of Druid AI, is a technology executive and entrepreneur with nearly two decades of experience spanning software engineering, enterprise technology, artificial intelligence, operations, and customer success. Since co-founding Druid AI, she has held several seni",
-          "link": "https://www.unite.ai/andreea-plesea-phd-coo-and-co-founder-of-druid-ai-interview-series/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "The Technology Investments That Matter Most in an Uncertain Market",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "Two years ago, most conversations about AI centered on whether the investment was worth the risk. That question has been settled. The harder one now is where the money should go, and how much of it. I see this play out constantly with mid-market leaders and private equity operators. Most of them hav",
-          "link": "https://www.unite.ai/how-leaders-can-scale-ai-and-maximize-tech-roi/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "Nonprofits Are Losing Engagement. AI Could Help Them Rebuild It",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "At the midpoint of this year, nonprofit executives were hit with the realization that, whereas donations across the U.S. continue to rise, with affluent households giving an average of $33,219 as per the 2025 Bank of America Study of Philanthropy, the number of actual donors has sharply dropped. Two",
-          "link": "https://www.unite.ai/how-nonprofits-can-use-ai-to-rebuild-donor-engagement/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "FSB Chair Warns G20 That Frontier AI Could Amplify Cyber Risk",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "Bank of England Governor Andrew Bailey, writing as chair of the Financial Stability Board (FSB), warned G20 finance ministers and central bank governors on August 31, 2026 that frontier artificial intelligence models could materially alter the speed, scale and economics of cyber risk and destabilize",
-          "link": "https://www.unite.ai/fsb-chair-warns-g20-that-frontier-ai-could-amplify-cyber-risk/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "UK Launches £100M Sovereign AI Procurement Competitions for Public Services",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "The UK government launched the first procurement competitions under its £100 million Sovereign AI R&amp;D Procurement Scheme on August 31, 2026, opening four challenges that invite British AI startups to build systems for the NHS, defence, computing efficiency, and AI agent security. Chancellor John",
-          "link": "https://www.unite.ai/uk-launches-100m-sovereign-ai-procurement-competitions-for-public-services/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "DiDi Starts Driverless Trials With R2 Robotaxi in Beijing and Guangzhou",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "DiDi Autonomous Driving began fully driverless passenger service trials with its next-generation Robotaxi, the R2, on August 31, 2026, making the vehicle bookable through the DiDi App in selected demonstration areas of Beijing and Guangzhou, the company announced. The R2 is jointly developed by DiDi",
-          "link": "https://www.unite.ai/didi-starts-driverless-trials-with-r2-robotaxi-in-beijing-and-guangzhou/",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "一台 SUV，需要装下年轻人还没发生的生活",
+          "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "年轻人的第一台 SUV，要给生活留点余地。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1677553?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-31"
+          "summary": "AMD 想用电脑把昂贵的 AI Token 账单降下来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-07"
         },
         {
-          "title": "折叠屏 iPhone 永远不该配手写笔｜硬哲学",
+          "title": "华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "谁要这玩意儿？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1677413?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-31"
+          "summary": "脱离概念机的襁褓，与所有折叠屏全面竞争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-07"
         },
         {
-          "title": "500 万人围观，AI 终于造出了「无限泔水机」",
+          "title": "在零跑的工厂里，我们找到了它能月销 10 万辆的秘密",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "内容无限，但精力有限#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1677378?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-31"
+          "summary": "汽车是一个轻不下来的行业。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-07"
         },
         {
-          "title": "织物座椅、砍掉氛围灯，「丐版」特斯拉 Model 3 登陆香港，定价 20.5 万港元",
+          "title": "早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "「毛坯房」的毛坯版本来了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1677366?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-31"
-        },
-        {
-          "title": "早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "· Codex 修复 8 类额度异常，最高可多用 50% · 乔布斯八年级科学展项目以 34375 美元成交 · 曝小米测试智能防窥屏，可按应用和敏感页面自动启用#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1677344?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-08-31"
+          "summary": "· 曝 Anthropic 接近确定 IPO 核心承销商 · 康宁 CCO：AI 让玻璃基封装与光互连走到台前 · 《西雅图时报》和《新闻日报》起诉 OpenAI 与微软#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-07"
         }
       ]
     }
