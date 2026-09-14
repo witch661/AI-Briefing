@@ -1,7 +1,7 @@
 {
-  "week": "2026年第37周",
-  "dateRange": "2026-09-07 至 2026-09-13",
-  "generatedAt": "2026-09-07T14:06:13.745509Z",
+  "week": "2026年第38周",
+  "dateRange": "2026-09-14 至 2026-09-20",
+  "generatedAt": "2026-09-14T14:52:22.872279Z",
   "modules": [
     {
       "name": "政声传递",
@@ -11,35 +11,36 @@
     {
       "name": "他山之石",
       "description": "外地区/城市经验、试点示范、区域发展",
-      "news": []
+      "news": [
+        {
+          "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "最近，爱范儿在上海见到了应用材料公司副总裁兼光子平台事业部总经理Paul Meissner，并体验了现场展示的多款智能眼镜技术样品#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-14"
+        }
+      ]
     },
     {
       "name": "产业动态",
       "description": "企业产品发布、技术突破、市场融资、行业会议",
       "news": [
         {
-          "title": "华为鸿蒙 7 发布会最全汇总：三折叠、阔直板全来了，信息密度大到让人眼花",
-          "source": "爱范儿",
-          "importance": "high",
-          "summary": "Super fast, Super intelligent#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-07"
-        },
-        {
-          "title": "把千亿模型装进笔记本，Windows 终于要反击 Mac 了",
+          "title": "理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "都想让 PC 成为 AI 的运行环境#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-07"
+          "summary": "理想的第二台 Home 级产品。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-14"
         },
         {
-          "title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
+          "title": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
           "source": "爱范儿",
-          "importance": "high",
-          "summary": "未来刚才来，它从何而来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-07"
+          "importance": "medium",
+          "summary": "· 集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一 · Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文 · Grok 4.7 延期，马斯克称模型会在难题上过早放弃#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-14"
         }
       ]
     },
@@ -48,92 +49,124 @@
       "description": "其他 AI 相关新闻",
       "news": [
         {
-          "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+          "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
           "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a va",
-          "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-          "publishedAt": "2026-09-07"
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI ",
+          "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+          "publishedAt": "2026-09-14"
         },
         {
-          "title": "9kV Solid-State Transformer Anchors Hyosung’s U.S. AI Grid Push",
+          "title": "Deepfake Detection Accuracy Falls 49% in a Year of AI Video Progress",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Hyosung Heavy Industries said on September 7, 2026, that it is accelerating its push into the U.S. AI data center power market, combining the 22.9kV solid-state transformer it developed in 2022 with completed American production bases for ultra-high-voltage transformers and circuit breakers. In the ",
-          "link": "https://www.unite.ai/9kv-solid-state-transformer-anchors-hyosungs-u-s-ai-grid-push/",
-          "publishedAt": "2026-09-07"
+          "summary": "I note with interest a new Ukraine-led paper indicating that the older generation of deepfake video detectors perform very poorly on current state-of-the-art genAI video, whether those generators are open source, local AI installs such as Alibaba&#039;s Wan 2.2 or Hunyuan Video; or API-only, closed-",
+          "link": "https://www.unite.ai/deepfake-detection-accuracy-falls-49-in-a-year-of-ai-video-progress/",
+          "publishedAt": "2026-09-14"
         },
         {
-          "title": "What Is a Foundation Model? How General-Purpose AI Is Built and Adapted",
+          "title": "Universal Robots Debuts Gen 7 Cobot Platform for Physical AI",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Foundation models are large, broadly trained models that can be adapted to many downstream tasks through prompting, retrieval, fine-tuning, or additional components. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
-          "link": "https://www.unite.ai/what-is-a-foundation-model-how-general-purpose-ai-is-built-and-adapted/",
-          "publishedAt": "2026-09-07"
+          "summary": "Universal Robots, a Teradyne Robotics company, introduced Gen 7, its seventh-generation robotics platform at the IMTS tradeshow in Chicago on September 14, 2026, presenting new robot arms, a reengineered controller, and software aimed at moving AI from the lab into industrial operations. The company",
+          "link": "https://www.unite.ai/universal-robots-debuts-gen-7-cobot-platform-for-physical-ai/",
+          "publishedAt": "2026-09-14"
         },
         {
-          "title": "Proteomic Aging Clocks Track Biological Age Reversal in Rentosertib Trial",
+          "title": "UKAEA and PPPL Agree to Explore Linking Fusion AI Supercomputers",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Researchers from Insilico Medicine and an international group of academic collaborators have applied six independently developed proteomic aging clocks to blood samples from a Phase IIa trial of the AI-designed drug rentosertib, finding that all six models consistently predicted lower biological age",
-          "link": "https://www.unite.ai/proteomic-aging-clocks-track-biological-age-reversal-in-rentosertib-trial/",
-          "publishedAt": "2026-09-07"
+          "summary": "The United Kingdom Atomic Energy Authority (UKAEA) and the US Department of Energy&#039;s Princeton Plasma Physics Laboratory (PPPL) signed a Joint Declaration of Intent on September 14, 2026, to explore linking UKAEA&#039;s SUNRISE supercomputer with PPPL&#039;s STELLAR-AI platform through a partne",
+          "link": "https://www.unite.ai/ukaea-and-pppl-agree-to-explore-linking-fusion-ai-supercomputers/",
+          "publishedAt": "2026-09-14"
         },
         {
-          "title": "UST Completes Majority Stake Acquisition of Italdesign From Audi",
+          "title": "Temporal Raises $550M Series E at $12.55B Valuation to Expand Operations",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "UST, a US-based AI and technology transformation company, has completed the acquisition of a majority stake in Italian design and engineering firm Italdesign from the Audi Group, announced September 7, 2026. The transaction closes a deal first signed in December 2025 and transfers majority control o",
-          "link": "https://www.unite.ai/ust-completes-majority-stake-acquisition-of-italdesign-from-audi/",
-          "publishedAt": "2026-09-07"
+          "summary": "Temporal announced a $550 million Series E at a $12.55 billion valuation on September 14, 2026, in a round co-led by Lightspeed with Wellington Management, Growth Equity at Goldman Sachs Alternatives, and Tiger Global. T. Rowe Price and SV Angel also participated, and returning investors include a16",
+          "link": "https://www.unite.ai/temporal-raises-550m-series-e-at-12-55b-valuation-to-expand-operations/",
+          "publishedAt": "2026-09-14"
         },
         {
-          "title": "Google, Cathay Pacific Expand Contrail Avoidance Trials in Asia-Pacific",
+          "title": "Beyond Automation: What AI is Changing in IT Operations",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Google is partnering with Cathay Pacific to test AI-powered contrail avoidance on ultra-long-haul flights across Asia-Pacific, the company announced on September 7, 2026, reporting that early trial flights reduced the warming impact of contrails by an estimated 40%. Cathay Pacific is Google&#039;s f",
-          "link": "https://www.unite.ai/google-cathay-pacific-expand-contrail-avoidance-trials-in-asia-pacific/",
-          "publishedAt": "2026-09-07"
+          "summary": "Reducing the Noise in Monitoring One of the areas where we have seen a significant improvement is monitoring. Large technology environments generate a considerable number of alerts, and not all of them require the same level of attention. Duplicate alerts, temporary anomalies and low-priority events",
+          "link": "https://www.unite.ai/ai-automation-it-operations-monitoring/",
+          "publishedAt": "2026-09-14"
         },
         {
-          "title": "NEURA and SECO Partner on Robot Compute Modules Built in Europe",
+          "title": "TSA Deploys Salesforce-Built AI Agent Ace to Answer Traveler Questions",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "NEURA Robotics and SECO announced a strategic partnership on September 7, 2026, under which the Italian embedded-computing company will design, engineer and manufacture electronic compute modules for NEURA&#039;s cognitive robots, including the humanoid 4NE1. The companies&#039; joint announcement, ",
-          "link": "https://www.unite.ai/neura-and-seco-partner-on-robot-compute-modules-built-in-europe/",
-          "publishedAt": "2026-09-07"
+          "summary": "The Transportation Security Administration has deployed Ace, an AI agent built with Salesforce Public Sector Solutions, to answer routine traveler questions about airport security, Salesforce announced on September 14, 2026. Salesforce said Ace has handled approximately 100,000 routine traveler conv",
+          "link": "https://www.unite.ai/tsa-deploys-salesforce-built-ai-agent-ace-to-answer-traveler-questions/",
+          "publishedAt": "2026-09-14"
         },
         {
-          "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+          "title": "Microsoft AI Opens Six-Week Review of Draft Rules Governing MAI Behavior",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Microsoft AI opened a public consultation on its Code of Conduct for MAI models on September 14, 2026, publishing a first draft of the rules intended to govern how its MAI models behave, what they must never do, and who they answer to. The consultation runs for six weeks, with a revised version plan",
+          "link": "https://www.unite.ai/microsoft-ai-opens-six-week-review-of-draft-rules-governing-mai-behavior/",
+          "publishedAt": "2026-09-14"
+        },
+        {
+          "title": "What Is Agentic RAG? When AI Plans Its Own Search and Retrieval",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Agentic RAG lets an AI system plan, reformulate, and iterate over retrieval rather than making one fixed search before generation. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
+          "link": "https://www.unite.ai/what-is-agentic-rag-when-ai-plans-its-own-search-and-retrieval/",
+          "publishedAt": "2026-09-14"
+        },
+        {
+          "title": "When AI Does the Work: How SaaS Business Models Have to Change",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "The SaaS industry was built on the simple premise that software helps people do work. Every pricing model, product roadmap, and sales motion for the past two decades has been organized around that assumption. A seat is a person, a license is a user, and a renewal is what happens when that user decid",
+          "link": "https://www.unite.ai/future-of-saas-ai-business-models/",
+          "publishedAt": "2026-09-14"
+        },
+        {
+          "title": "In the New Paradigm of Publishing, AI Is Indispensable",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Traditional publishing models are rapidly reforming as mounting support for open access continues to soar. Last year, submissions soared by 30%, according to Springer Nature. But this demand is proving to be a double-edged sword as retracted articles have hit an all-time high in the past decade, and",
+          "link": "https://www.unite.ai/ai-in-academic-peer-review-crisis/",
+          "publishedAt": "2026-09-14"
+        },
+        {
+          "title": "BD’s Vmax 160 Pharmacy Robot Lands First U.S. Deployment at Fairview",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "BD (Becton, Dickinson and Company) announced on September 14, 2026, that Fairview Health Services has become the first health system in the United States to deploy the BD Vmax 160, a next-generation pharmacy automation robot designed for high-volume, centralized outpatient pharmacy operations handli",
+          "link": "https://www.unite.ai/bds-vmax-160-pharmacy-robot-lands-first-u-s-deployment-at-fairview/",
+          "publishedAt": "2026-09-14"
+        },
+        {
+          "title": "Fujitsu Unveils 2Nm FUJITSU-MONAKA CPU and Sovereign AI Server",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Fujitsu Limited announced on September 14, 2026 that it will begin global sales of FUJITSU-MONAKA, its next-generation CPU designed and developed in Japan, starting November 2026, and will launch the made-in-Japan Fujitsu MONAKA Server, a system the company positions as sovereign AI infrastructure. ",
+          "link": "https://www.unite.ai/fujitsu-unveils-2nm-fujitsu-monaka-cpu-and-sovereign-ai-server/",
+          "publishedAt": "2026-09-14"
+        },
+        {
+          "title": "在学会数学之前，AI 先学会了大厂的虚荣心",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "AMD 想用电脑把昂贵的 AI Token 账单降下来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-07"
+          "summary": "大厂的数学名题争夺赛#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-14"
         },
         {
-          "title": "华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常",
+          "title": "新豆包手机助手首发体验，智能手机正在变成「行动终端」",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "脱离概念机的襁褓，与所有折叠屏全面竞争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-07"
-        },
-        {
-          "title": "在零跑的工厂里，我们找到了它能月销 10 万辆的秘密",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "汽车是一个轻不下来的行业。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-07"
-        },
-        {
-          "title": "早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "· 曝 Anthropic 接近确定 IPO 核心承销商 · 康宁 CCO：AI 让玻璃基封装与光互连走到台前 · 《西雅图时报》和《新闻日报》起诉 OpenAI 与微软#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-07"
+          "summary": "真正的 AI 手机，应该是「行动终端」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-14"
         }
       ]
     }
