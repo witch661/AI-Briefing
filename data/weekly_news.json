@@ -1,7 +1,7 @@
 {
-  "week": "2026年第38周",
-  "dateRange": "2026-09-14 至 2026-09-20",
-  "generatedAt": "2026-09-14T14:52:22.872279Z",
+  "week": "2026年第39周",
+  "dateRange": "2026-09-21 至 2026-09-27",
+  "generatedAt": "2026-09-21T14:57:42.578279Z",
   "modules": [
     {
       "name": "政声传递",
@@ -11,36 +11,27 @@
     {
       "name": "他山之石",
       "description": "外地区/城市经验、试点示范、区域发展",
-      "news": [
-        {
-          "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "最近，爱范儿在上海见到了应用材料公司副总裁兼光子平台事业部总经理Paul Meissner，并体验了现场展示的多款智能眼镜技术样品#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-14"
-        }
-      ]
+      "news": []
     },
     {
       "name": "产业动态",
       "description": "企业产品发布、技术突破、市场融资、行业会议",
       "news": [
         {
-          "title": "理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」",
+          "title": "新 Mac mini 首发实测：我的第一台「多 Agent」电脑",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "理想的第二台 Home 级产品。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-14"
+          "summary": "能跑大模型只是 AI PC 的起点#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1681211?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+          "title": "GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "· 集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一 · Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文 · Grok 4.7 延期，马斯克称模型会在难题上过早放弃#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-14"
+          "summary": "当大模型开始拥有一双真实的手#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1681070?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-21"
         }
       ]
     },
@@ -49,124 +40,164 @@
       "description": "其他 AI 相关新闻",
       "news": [
         {
-          "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+          "title": "The Download: investigating deaths at the US border’s “virtual wall”",
           "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI ",
-          "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-          "publishedAt": "2026-09-14"
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in Ap",
+          "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "Deepfake Detection Accuracy Falls 49% in a Year of AI Video Progress",
+          "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+          "source": "MIT Technology Review",
+          "importance": "medium",
+          "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technolo",
+          "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+          "publishedAt": "2026-09-21"
+        },
+        {
+          "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+          "source": "MIT Technology Review",
+          "importance": "medium",
+          "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower",
+          "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+          "publishedAt": "2026-09-21"
+        },
+        {
+          "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+          "source": "MIT Technology Review",
+          "importance": "medium",
+          "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three",
+          "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+          "publishedAt": "2026-09-21"
+        },
+        {
+          "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+          "source": "MIT Technology Review",
+          "importance": "medium",
+          "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&",
+          "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+          "publishedAt": "2026-09-21"
+        },
+        {
+          "title": "Apple Siri AI Settlement Opens Claims to Eligible iPhone Owners",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "I note with interest a new Ukraine-led paper indicating that the older generation of deepfake video detectors perform very poorly on current state-of-the-art genAI video, whether those generators are open source, local AI installs such as Alibaba&#039;s Wan 2.2 or Hunyuan Video; or API-only, closed-",
-          "link": "https://www.unite.ai/deepfake-detection-accuracy-falls-49-in-a-year-of-ai-video-progress/",
-          "publishedAt": "2026-09-14"
+          "summary": "Eligible iPhone owners in the United States can begin submitting claims on September 21, 2026, in the $250 million settlement of Landsheft v. Apple Inc., a class action over Siri Apple Intelligence features, according to the case&#039;s official settlement website. The settlement covers U.S. residen",
+          "link": "https://www.unite.ai/apple-siri-ai-settlement-opens-claims-to-eligible-iphone-owners/",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "Universal Robots Debuts Gen 7 Cobot Platform for Physical AI",
+          "title": "BigID Debuts AgentIQ for Agent-Run Data Security and Compliance",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Universal Robots, a Teradyne Robotics company, introduced Gen 7, its seventh-generation robotics platform at the IMTS tradeshow in Chicago on September 14, 2026, presenting new robot arms, a reengineered controller, and software aimed at moving AI from the lab into industrial operations. The company",
-          "link": "https://www.unite.ai/universal-robots-debuts-gen-7-cobot-platform-for-physical-ai/",
-          "publishedAt": "2026-09-14"
+          "summary": "BigID on September 21, 2026 announced the launch of AgentIQ, an agentic automation interface that lets customers operate their data security and compliance programs from a prompt or an AI agent, either inside BigID or directly from Claude, Copilot, GPT, or Gemini. What AgentIQ Does The release descr",
+          "link": "https://www.unite.ai/bigid-debuts-agentiq-for-agent-run-data-security-and-compliance/",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "UKAEA and PPPL Agree to Explore Linking Fusion AI Supercomputers",
+          "title": "Simbe Tops 3,000 Autonomous Units in Its Shelf-Intelligence Fleet",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "The United Kingdom Atomic Energy Authority (UKAEA) and the US Department of Energy&#039;s Princeton Plasma Physics Laboratory (PPPL) signed a Joint Declaration of Intent on September 14, 2026, to explore linking UKAEA&#039;s SUNRISE supercomputer with PPPL&#039;s STELLAR-AI platform through a partne",
-          "link": "https://www.unite.ai/ukaea-and-pppl-agree-to-explore-linking-fusion-ai-supercomputers/",
-          "publishedAt": "2026-09-14"
+          "summary": "Simbe Robotics announced on September 21, 2026 that it has surpassed 3,000 autonomous units under contract, which the company described as the largest commercially committed fleet of shelf intelligence technology identified in company research. The announcement comes in the decade since Simbe introd",
+          "link": "https://www.unite.ai/simbe-tops-3-000-autonomous-units-in-its-shelf-intelligence-fleet/",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "Temporal Raises $550M Series E at $12.55B Valuation to Expand Operations",
+          "title": "Google Opens Pre-Orders for Partner-Built Googlebook Laptops",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Temporal announced a $550 million Series E at a $12.55 billion valuation on September 14, 2026, in a round co-led by Lightspeed with Wellington Management, Growth Equity at Goldman Sachs Alternatives, and Tiger Global. T. Rowe Price and SV Angel also participated, and returning investors include a16",
-          "link": "https://www.unite.ai/temporal-raises-550m-series-e-at-12-55b-valuation-to-expand-operations/",
-          "publishedAt": "2026-09-14"
+          "summary": "Google opened pre-orders for Googlebook on September 21, 2026, bringing its new laptop line to market with five flagship models built by Acer, ASUS, Dell, HP, and Lenovo at a starting price of $899. The announcement came in a post by John Solomon, Google&#039;s vice president and general manager for",
+          "link": "https://www.unite.ai/google-opens-pre-orders-for-partner-built-googlebook-laptops/",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "Beyond Automation: What AI is Changing in IT Operations",
+          "title": "UN AI Panel Invokes Precautionary Principle on Loss-of-Control Risk",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Reducing the Noise in Monitoring One of the areas where we have seen a significant improvement is monitoring. Large technology environments generate a considerable number of alerts, and not all of them require the same level of attention. Duplicate alerts, temporary anomalies and low-priority events",
-          "link": "https://www.unite.ai/ai-automation-it-operations-monitoring/",
-          "publishedAt": "2026-09-14"
+          "summary": "The Independent International Scientific Panel on AI published a thematic brief on September 21, 2026, that describes the May–July 2026 OpenAI-Hugging Face incident as an early warning of one possible route to more severe future loss of human control over artificial intelligence: capable agents pers",
+          "link": "https://www.unite.ai/un-ai-panel-invokes-precautionary-principle-on-loss-of-control-risk/",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "TSA Deploys Salesforce-Built AI Agent Ace to Answer Traveler Questions",
+          "title": "What Is a Loss Function? How Machine Learning Measures Error",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "The Transportation Security Administration has deployed Ace, an AI agent built with Salesforce Public Sector Solutions, to answer routine traveler questions about airport security, Salesforce announced on September 14, 2026. Salesforce said Ace has handled approximately 100,000 routine traveler conv",
-          "link": "https://www.unite.ai/tsa-deploys-salesforce-built-ai-agent-ace-to-answer-traveler-questions/",
-          "publishedAt": "2026-09-14"
+          "summary": "A loss function converts the difference between predictions and targets into a quantity that learning algorithms try to minimize. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
+          "link": "https://www.unite.ai/what-is-a-loss-function-how-machine-learning-measures-error/",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "Microsoft AI Opens Six-Week Review of Draft Rules Governing MAI Behavior",
+          "title": "Here’s What Nobody’s Telling the Middle Class About AI",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Microsoft AI opened a public consultation on its Code of Conduct for MAI models on September 14, 2026, publishing a first draft of the rules intended to govern how its MAI models behave, what they must never do, and who they answer to. The consultation runs for six weeks, with a revised version plan",
-          "link": "https://www.unite.ai/microsoft-ai-opens-six-week-review-of-draft-rules-governing-mai-behavior/",
-          "publishedAt": "2026-09-14"
+          "summary": "I&#039;ve spent most of my career around people who work with their hands, including the electricians and warehouse workers who show up at 5 a.m. and don&#039;t leave until the job&#039;s done. Frankly, I&#039;ll tell you what I hear from almost every one of them when the subject of AI comes up: som",
+          "link": "https://www.unite.ai/how-ai-empowers-blue-collar-businesses/",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "What Is Agentic RAG? When AI Plans Its Own Search and Retrieval",
+          "title": "How AI Modernizes Lending Alongside Legacy Banking Systems Without a Teardown",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Agentic RAG lets an AI system plan, reformulate, and iterate over retrieval rather than making one fixed search before generation. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
-          "link": "https://www.unite.ai/what-is-agentic-rag-when-ai-plans-its-own-search-and-retrieval/",
-          "publishedAt": "2026-09-14"
+          "summary": "Any intervention in a bank&#039;s core system makes an engineering team wince. Legacy solutions are rigid, so a single change can take a month to move through. Lending, which is one of a bank&#039;s major sources of income, feels this most. Anyone who has shipped a release on a bank core knows the p",
+          "link": "https://www.unite.ai/ai-lending-platforms-legacy-core-banking/",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "When AI Does the Work: How SaaS Business Models Have to Change",
+          "title": "Quartile Adds ChatGPT Advertising Access as Technology Partner",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "The SaaS industry was built on the simple premise that software helps people do work. Every pricing model, product roadmap, and sales motion for the past two decades has been organized around that assumption. A seat is a person, a license is a user, and a renewal is what happens when that user decid",
-          "link": "https://www.unite.ai/future-of-saas-ai-business-models/",
-          "publishedAt": "2026-09-14"
+          "summary": "Retail media optimization platform Quartile announced on September 21, 2026 that it has become a technology partner supporting advertising in ChatGPT, giving participating advertisers access to ChatGPT Ads through Quartile&#039;s existing tools and workflows. In the release, datelined New York, Quar",
+          "link": "https://www.unite.ai/quartile-adds-chatgpt-advertising-access-as-technology-partner/",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "In the New Paradigm of Publishing, AI Is Indispensable",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "Traditional publishing models are rapidly reforming as mounting support for open access continues to soar. Last year, submissions soared by 30%, according to Springer Nature. But this demand is proving to be a double-edged sword as retracted articles have hit an all-time high in the past decade, and",
-          "link": "https://www.unite.ai/ai-in-academic-peer-review-crisis/",
-          "publishedAt": "2026-09-14"
-        },
-        {
-          "title": "BD’s Vmax 160 Pharmacy Robot Lands First U.S. Deployment at Fairview",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "BD (Becton, Dickinson and Company) announced on September 14, 2026, that Fairview Health Services has become the first health system in the United States to deploy the BD Vmax 160, a next-generation pharmacy automation robot designed for high-volume, centralized outpatient pharmacy operations handli",
-          "link": "https://www.unite.ai/bds-vmax-160-pharmacy-robot-lands-first-u-s-deployment-at-fairview/",
-          "publishedAt": "2026-09-14"
-        },
-        {
-          "title": "Fujitsu Unveils 2Nm FUJITSU-MONAKA CPU and Sovereign AI Server",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "Fujitsu Limited announced on September 14, 2026 that it will begin global sales of FUJITSU-MONAKA, its next-generation CPU designed and developed in Japan, starting November 2026, and will launch the made-in-Japan Fujitsu MONAKA Server, a system the company positions as sovereign AI infrastructure. ",
-          "link": "https://www.unite.ai/fujitsu-unveils-2nm-fujitsu-monaka-cpu-and-sovereign-ai-server/",
-          "publishedAt": "2026-09-14"
-        },
-        {
-          "title": "在学会数学之前，AI 先学会了大厂的虚荣心",
+          "title": "日产新一代 Skyline 要来了！搭载双涡轮 V6，还会有 6 速手动挡？",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "大厂的数学名题争夺赛#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-14"
+          "summary": "新 Skyline 不需要复制过去的传奇，它只需要找准自己的定位。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1681312?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-21"
         },
         {
-          "title": "新豆包手机助手首发体验，智能手机正在变成「行动终端」",
+          "title": "摁！TA 总能直出决定性瞬间",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "真正的 AI 手机，应该是「行动终端」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-09-14"
+          "summary": "有多少你曾误以为是「废片」的瞬间？其实处处都藏着「决定性瞬间」，vivo X500 Pro Max 让每个人都能放下旅行出片的压力，先生活，再出片。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1681350?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-21"
+        },
+        {
+          "title": "理想智驾被指「不遵守交规」？这真不能全怪它",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "辅助驾驶不得不违规。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1681289?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-21"
+        },
+        {
+          "title": "AI 正在制造 App 过剩时代",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "你会为 App 付费吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1681265?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-21"
+        },
+        {
+          "title": "森海塞尔 MOMENTUM 5 体验：AI 时代的稳重选择",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "耳机依旧是耳机，只是如今一副好耳机既要足够好听，也要能够接住你的声音。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1681181?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-21"
+        },
+        {
+          "title": "早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "· Google Gemini 安全测试越界，误攻 3 家真实企业 · 长鑫存储 G5 DRAM 平台量产，单片晶圆裸片数提升至少 50% · 智谱 MaaS 平台将上线数据内容不留存机制#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1681049?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-09-21"
         }
       ]
     }
