@@ -1,7 +1,7 @@
 {
-  "week": "2026年第41周",
-  "dateRange": "2026-10-05 至 2026-10-11",
-  "generatedAt": "2026-10-05T16:57:37.478645Z",
+  "week": "2026年第43周",
+  "dateRange": "2026-10-19 至 2026-10-25",
+  "generatedAt": "2026-10-19T15:23:07.273825Z",
   "modules": [
     {
       "name": "政声传递",
@@ -16,219 +16,212 @@
     {
       "name": "产业动态",
       "description": "企业产品发布、技术突破、市场融资、行业会议",
-      "news": []
+      "news": [
+        {
+          "title": "早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产",
+          "source": "爱范儿",
+          "importance": "high",
+          "summary": "· 曝三星拟采用台积电 3nm 工艺，为英伟达定制 HBM · 智界拟取得独立造车资质，内部人士确认独立上市计划 · Tibo 回应 Codex 用户许愿：五项建议中有两项正在做#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-19"
+        }
+      ]
     },
     {
       "name": "综合关注",
       "description": "其他 AI 相关新闻",
       "news": [
         {
-          "title": "Connecting AI agents to enterprise knowledge",
+          "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
           "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re",
-          "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-          "publishedAt": "2026-10-05"
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the Univ",
+          "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Bringing predictive analytics to the agentic AI era",
+          "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
           "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr",
-          "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-          "publishedAt": "2026-10-05"
+          "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and liche",
+          "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+          "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
           "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an L",
-          "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-          "publishedAt": "2026-10-05"
+          "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were",
+          "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "People really hate AI, so why can’t they get enough?",
+          "title": "How far can we push computing?",
           "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230",
-          "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-          "publishedAt": "2026-10-05"
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richar",
+          "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "EmTech Future 2026: When AI Meets Everything",
-          "source": "MIT Technology Review",
-          "importance": "medium",
-          "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors fo",
-          "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-          "publishedAt": "2026-10-05"
-        },
-        {
-          "title": "FDA Clears AIRS Medical’s AI MRI Tool for Body Composition Analysis",
+          "title": "Michael Heinrich, Co-Founder and CEO of 0G – Interview Series",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "AIRS Medical said on October 5, 2026, that the U.S. Food and Drug Administration granted 510(k) clearance for SwiftSight Body Composition, its AI-powered quantitative MRI software, with SimonMed Imaging as the first customer to deploy it. The Chicago-datelined announcement said the clearance expands",
-          "link": "https://www.unite.ai/fda-clears-airs-medicals-ai-mri-tool-for-body-composition-analysis/",
-          "publishedAt": "2026-10-05"
+          "summary": "Michael Heinrich, Co-Founder and CEO of 0G, is a serial entrepreneur, investor, and technology executive focused on building decentralized infrastructure for artificial intelligence. At 0G, he is leading the development of infrastructure designed to make AI more open, verifiable, and accessible. Hei",
+          "link": "https://www.unite.ai/michael-heinrich-co-founder-and-ceo-of-0g-interview-series/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Nolla Health Launches AI-Issued Initial Acne Prescriptions in Utah",
+          "title": "AI-Generated Faces Could Be Making Real People Less Employable",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Nolla Health announced on October 5, 2026, that its Nolla Derm app is issuing AI-generated initial acne prescriptions to Utah residents 18 and older under a state regulatory agreement, at a pilot price of $4.99 per month. The company said it is the first organization in the United States authorized ",
-          "link": "https://www.unite.ai/nolla-health-launches-ai-issued-initial-acne-prescriptions-in-utah/",
-          "publishedAt": "2026-10-05"
+          "summary": "You don&#039;t really need scientists to know that personal attractiveness opens doors, since you&#039;ve likely been the victim or the beneficiary of this to some extent in your life; nor to discover that AI-generated faces tend to be more attractive than real people (for a variety of reasons, many",
+          "link": "https://www.unite.ai/ai-generated-faces-could-be-making-real-people-less-employable/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Utah AI Office Requires Signed Receipts for Designated Sandbox Systems",
+          "title": "Microsoft Adds Guardian Agents to Project Perception for AI Insider Risk",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Vendors designated by Utah&#039;s Office of Artificial Intelligence Policy must generate and deliver a cryptographically signed receipt for every covered AI inference or control evaluation as a condition of joining the state&#039;s AI Learning Laboratory and remaining in it, Glacis Technologies said",
-          "link": "https://www.unite.ai/utah-ai-office-requires-signed-receipts-for-designated-sandbox-systems/",
-          "publishedAt": "2026-10-05"
+          "summary": "Microsoft on October 19, 2026, announced new security capabilities in Project Perception and Microsoft 365 E7 that treat enterprise AI agents as potential insider threats, introducing Guardian Agents that supervise agent actions continuously and policy controls that adjust what each agent is allowed",
+          "link": "https://www.unite.ai/microsoft-adds-guardian-agents-to-project-perception-for-ai-insider-risk/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "OpenAI Begins Phased Text Watermarking Under EU AI Act Rules",
+          "title": "SandboxAQ Adds Trust and ROI Tools to Switch AI Agent Platform",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "OpenAI on October 5, 2026, set out its approach to text watermarking under the EU AI Act, opening opt-in watermarking to API customers worldwide and announcing that invisible watermarks will be added to eligible ChatGPT and Codex text output in the European Union over the coming weeks. The EU AI Act",
-          "link": "https://www.unite.ai/openai-begins-phased-text-watermarking-under-eu-ai-act-rules/",
-          "publishedAt": "2026-10-05"
+          "summary": "SandboxAQ on October 19, 2026, announced an expansion of its Switch AI platform for enterprises adopting AI agents, introducing Switch Trust, for finding, testing, and guarding agents, and Switch ROI, which tracks the cost and value of each agent. The Palo Alto, California-based company said the two",
+          "link": "https://www.unite.ai/sandboxaq-adds-trust-and-roi-tools-to-switch-ai-agent-platform/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Volvo and Waabi Begin Autonomous Freight Operations for Warp in Texas",
+          "title": "Why Doomsday Is a Distraction, and the Real AI Risk We Should Be Worried About",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Volvo Autonomous Solutions (V.A.S.) and Waabi announced on October 5, 2026, the start of autonomous freight operations for Warp in Texas, which the companies described as the first customer operation of their partnership. The Volvo VNL Autonomous powered by the Waabi Driver is now transporting freig",
-          "link": "https://www.unite.ai/volvo-and-waabi-begin-autonomous-freight-operations-for-warp-in-texas/",
-          "publishedAt": "2026-10-05"
+          "summary": "If you consume any news media, it is hard to ignore the rising alarmism surrounding the AI industry and doomsday warnings. The narrative, which warns of the ‘existential risk’ AI systems pose to humanity, has made it all too easy for cybersecurity firms to jump on the bandwagon and let fear do the s",
+          "link": "https://www.unite.ai/agentic-ai-cybersecurity-risks-deterministic-safeguards/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "AI Agents Are Ready to Act. Most Companies Aren’t Ready to Let Them.",
+          "title": "AICPA and AIUC Pair SOC 2 Reports With AIUC-1 Certification",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "For most of the generative AI era, we have focused on what models say and what we put into them. We inspect prompts, filter responses, red-team models and build controls around inputs and outputs. Those protections still matter, but they were designed for a world in which AI primarily generated some",
-          "link": "https://www.unite.ai/runtime-security-controlling-autonomous-ai-agents/",
-          "publishedAt": "2026-10-05"
+          "summary": "The American Institute of CPAs and the Artificial Intelligence Underwriting Company on October 19, 2026 announced a joint assurance certification that combines a SOC 2 report with AIUC-1 certification, delivered as a single report from one CPA-led engagement covering AI systems and agents. The organ",
+          "link": "https://www.unite.ai/aicpa-and-aiuc-pair-soc-2-reports-with-aiuc-1-certification/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Mike Jerich, President and CEO at Flexera – Interview Series",
+          "title": "NorForge Details 20+ Exposed Cairn Panels Used in AI-Driven Intrusions",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Mike Jerich, President and CEO at Flexera, is an enterprise technology executive with more than 25 years of experience spanning software, cloud services, communications, and go-to-market leadership. He joined Flexera as President in May 2025 and was named President and CEO in July 2026 as part of a ",
-          "link": "https://www.unite.ai/mike-jerich-president-and-ceo-at-flexera-interview-series/",
-          "publishedAt": "2026-10-05"
+          "summary": "Security research firm NorForge on October 19, 2026 published Inside Cairn, an investigation that identified more than 20 publicly exposed control panels for the Cairn AI problem-solving harness as likely associated with malicious, financially motivated intrusion activity. The exposed panels provide",
+          "link": "https://www.unite.ai/norforge-details-20-plus-exposed-cairn-panels-used-in-ai-driven-intrusions/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Cohere Launches North 2 With Redesigned Agent Harness and Memory",
+          "title": "monday.com Launches Harmony, Betting on Specialized Models for Voice AI Sales Agents",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Cohere on October 5, 2026, launched North 2, the latest version of its North enterprise agentic AI platform, adding cross-session agent memory, a redesigned orchestration harness, and granular administrative cost controls across cloud, on-premises, and air-gapped deployments. In its announcement, Co",
-          "link": "https://www.unite.ai/cohere-launches-north-2-with-redesigned-agent-harness-and-memory/",
-          "publishedAt": "2026-10-05"
+          "summary": "Sales teams can lose an interested customer in the gap between an inquiry and a return call. Harmony, a voice AI platform built by monday.com, is launching with a system designed to handle those conversations using a collection of smaller, task-specific language models. Announced on October 19, the ",
+          "link": "https://www.unite.ai/monday-com-harmony-voice-ai-sales-agents/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Norway to Propose Temporary Ban on AI Glasses in Public Places",
+          "title": "Huntington Bank Unveils 1866 Studio AI Operating System for Small Business",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Norway&#039;s government will propose a temporary ban on the use of AI glasses in selected public places and will appoint an expert group to advise on permanent national regulation of body-worn technology, the Ministry of Digitalisation and Public Governance said in an October 5, 2026 announcement. ",
-          "link": "https://www.unite.ai/norway-to-propose-temporary-ban-on-ai-glasses-in-public-places/",
-          "publishedAt": "2026-10-05"
+          "summary": "The Huntington National Bank announced The 1866 Studio on October 19, 2026, describing it as an AI-powered operating system for prospective and current small business owners built with Gemini platform, Google Cloud&#039;s AI platform. Early-access signups opened the same day and are not limited to H",
+          "link": "https://www.unite.ai/huntington-bank-unveils-1866-studio-ai-operating-system-for-small-business/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Jev and the New Decision Layer for AI Agents",
+          "title": "Binance AI Pro Turns Trading Ideas Into Tested Automated Workflows",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Why System One models could separate fast judgment from slow reasoning Many AI agents utilize a language model for nearly all their decisions. The language model picks a tool, evaluates results, determines if it needs to keep going, and finally generates answers. Flexible; however, this process can ",
-          "link": "https://www.unite.ai/why-system-one-models-separate-fast-judgment-slow-reasoning/",
-          "publishedAt": "2026-10-05"
+          "summary": "Binance launched Binance AI Pro on October 19, 2026, a conversational AI agent that turns trading ideas described in plain language into tested, automated workflows, the company announced on the Binance Blog. The product is available to all Binance users on the web and in the Binance app, with no se",
+          "link": "https://www.unite.ai/binance-ai-pro-turns-trading-ideas-into-tested-automated-workflows/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Collibra Buys Trail ML, Adding Agent-Powered AI Governance Automation",
+          "title": "What Is Differential Privacy? Protecting Personal Data in Machine Learning",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Collibra announced the acquisition of trail ML on October 5, 2026, a deal the company said brings agent-powered automation, continuous assessment and runtime control to Collibra. trail ML is a Munich-based AI governance company founded in 2023 by Anna Spitznagel, Nikolaus Pinger and Sven Hölzel. Col",
-          "link": "https://www.unite.ai/collibra-buys-trail-ml-adding-agent-powered-ai-governance-automation/",
-          "publishedAt": "2026-10-05"
+          "summary": "Differential privacy is a mathematical framework that limits how much an algorithm&#039;s output can change when any one person&#039;s record is added or removed. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
+          "link": "https://www.unite.ai/what-is-differential-privacy-protecting-personal-data-in-machine-learning/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "NYC Council Hearing Puts Anthropic, OpenAI, Google, Meta Under Oath",
+          "title": "Salesforce Names Madrid EMEA South Hub in Five-Year Spain Investment",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "The New York City Council&#039;s Committee of the Whole convenes at 11:00 AM on October 5, 2026, at City Hall, with Anthropic, OpenAI, Google, and Meta scheduled to give what the Council describes as their first public testimony under oath on the risks of artificial intelligence. SpaceXAI was subpoe",
-          "link": "https://www.unite.ai/nyc-council-hearing-puts-anthropic-openai-google-meta-under-oath/",
-          "publishedAt": "2026-10-05"
+          "summary": "Salesforce announced plans to invest $1 billion in Spain over the next five years on October 19, 2026, naming Madrid the hub of its EMEA South operations during the official inauguration of a new headquarters in the city. The announcement was made at the headquarters inauguration, an event attended ",
+          "link": "https://www.unite.ai/salesforce-names-madrid-emea-south-hub-in-five-year-spain-investment/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Constructor Embeds Stripe Checkout in Its Onsite AI Shopping Agents",
+          "title": "3 Mistakes Retail C-Suites and Boardrooms Are Making When it Comes to AI",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Constructor on October 5, 2026, announced Agentic Checkout, a new capability that integrates Stripe into its onsite AI shopping agents so that shoppers can find and buy products within a single conversation. The functionality is available globally, and Constructor said it is the first company to off",
-          "link": "https://www.unite.ai/constructor-embeds-stripe-checkout-in-its-onsite-ai-shopping-agents/",
-          "publishedAt": "2026-10-05"
+          "summary": "Earlier this year, my company surveyed CIOs and CTOs at companies making $500M+ in annual revenue about how their brands were approaching AI. Across these executives, 84% agreed that only those AI projects that resulted in ROI would survive the year, and 82% agreed that their boards were increasingl",
+          "link": "https://www.unite.ai/ai-investment-mistakes-retail-strategy/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "PwC and Cohere Form Global AI Alliance Launching First in Canada",
+          "title": "UK Council for Science and Technology Publishes AI Sovereignty Advice",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "PwC and Cohere announced a global alliance on October 5, 2026, that begins in Canada, with a stated goal of helping enterprises run secure AI in production and earn measurable returns on AI spending. The alliance pairs Cohere&#039;s North agentic AI platform, enterprise models, and search and retrie",
-          "link": "https://www.unite.ai/pwc-and-cohere-form-global-ai-alliance-launching-first-in-canada/",
-          "publishedAt": "2026-10-05"
+          "summary": "The Council for Science and Technology on October 19, 2026, published a letter of advice to Minister for AI Kanishka Narayan on how the UK can build and direct its own AI capability, setting out four recommendations aimed at what the Council calls AI sovereignty. The letter is dated July 30, 2026, a",
+          "link": "https://www.unite.ai/uk-council-for-science-and-technology-publishes-ai-sovereignty-advice/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Coco Robots Begin UK Deliveroo Service at London Canary Wharf",
+          "title": "Ultima UG200 Chosen for 80,000-Sample UK Biobank Immune Study",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Coco Robotics and Deliveroo on October 5, 2026 announced an exclusive strategic partnership to scale sidewalk robot deliveries across the UK, a move the companies said marks Coco&#039;s entry into the country and Deliveroo&#039;s first use of autonomous delivery vehicles there. The rollout begins at",
-          "link": "https://www.unite.ai/coco-robots-begin-uk-deliveroo-service-at-london-canary-wharf/",
-          "publishedAt": "2026-10-05"
+          "summary": "In an announcement dated October 19, 2026, Ultima Genomics said its UG200 Sequencing Platform has been selected to power a large-scale single-cell immune profiling study with IMU Biosciences and UK Biobank, covering an initial 80,000 blood samples from UK Biobank participants and producing a foundat",
+          "link": "https://www.unite.ai/ultima-ug200-chosen-for-80-000-sample-uk-biobank-immune-study/",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "RobCo Raises New Investment at $1B Valuation With Employee Share Sale",
-          "source": "Unite.AI",
+          "title": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
+          "source": "爱范儿",
           "importance": "medium",
-          "summary": "RobCo announced on October 5, 2026 that it has surpassed a $1 billion valuation, becoming a unicorn through a transaction that pairs new investment in the company with an employee secondary share sale. Transaction Structure and Investors The transaction drew participation from RobCo&#039;s existing ",
-          "link": "https://www.unite.ai/robco-raises-new-investment-at-1b-valuation-with-employee-share-sale/",
-          "publishedAt": "2026-10-05"
+          "summary": "给屏幕装上脖子#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1684921?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "What Is Self-Attention? The Mechanism That Powers Transformers",
-          "source": "Unite.AI",
+          "title": "我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来",
+          "source": "爱范儿",
           "importance": "medium",
-          "summary": "Self-attention lets each token build a context-sensitive representation by weighting information from other tokens in the same sequence. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
-          "link": "https://www.unite.ai/what-is-self-attention-the-mechanism-that-powers-transformers/",
-          "publishedAt": "2026-10-05"
+          "summary": "好用到原地「起飞」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1684880?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "AI Is Already Smarter Than Your Doctor. That’s Not the Scary Part.",
-          "source": "Unite.AI",
+          "title": "‌‍⁢⁡⁤⁢⁣‬⁢⁤微信鸿蒙版两周年小记：两群人，一件难事，从陌生到并肩的700天‌⁣‌﻿‬⁡⁢​⁢⁢‍‬​​⁡‍⁤​​⁤‍⁣‬⁡​​⁣​‬⁣⁣‍‍⁤​‌​⁢⁢‌",
+          "source": "爱范儿",
           "importance": "medium",
-          "summary": "I wanted AI to solve this problem. For years, I had been taking complicated patient histories, laboratory findings, symptoms, medications, supplements and years of prior treatment and trying to turn all of it into a coherent clinical plan. A complex case could consume three hours of research before ",
-          "link": "https://www.unite.ai/building-bionic-practitioner-clinical-ai-safety/",
-          "publishedAt": "2026-10-05"
+          "summary": "平台与伙伴并肩作战、克服困难，其中辛酸故事不为人知#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1684608?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "OpenAI Introduces Visual ChatGPT Ad Format and Expanded Measurement",
-          "source": "Unite.AI",
+          "title": "微信鸿蒙版两周年背后，你不知道的故事",
+          "source": "爱范儿",
           "importance": "medium",
-          "summary": "OpenAI on October 5, 2026 introduced a new visual ad format in ChatGPT, expanded the measurement tools and partner ecosystem behind ChatGPT Ads, and said it is developing brand suitability evaluation pilots with DoubleVerify and Integral Ad Science, saying the platform reaches 1.2 billion people eac",
-          "link": "https://www.unite.ai/openai-introduces-visual-chatgpt-ad-format-and-expanded-measurement/",
-          "publishedAt": "2026-10-05"
+          "summary": "从零重写，两年从 1.0 追到 8.0。这是微信鸿蒙版，和它背后那群人的故事。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1684869?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-19"
         },
         {
-          "title": "Huawei, Qualcomm Enter Multi-Year Patent License Deal for 5G, AI",
-          "source": "Unite.AI",
+          "title": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
+          "source": "爱范儿",
           "importance": "medium",
-          "summary": "Huawei and Qualcomm on October 5, 2026 announced a multi-year, broad patent license agreement that combines cross licenses to the companies&#039; patent portfolios across 5G, compute, AI, and networking with Qualcomm&#039;s purchase of certain Huawei U.S. patents. Huawei published the announcement f",
-          "link": "https://www.unite.ai/huawei-qualcomm-enter-multi-year-patent-license-deal-for-5g-ai/",
-          "publishedAt": "2026-10-05"
-        },
-        {
-          "title": "atNorth Plans FIN05 Data Center in Salo, Finland with Path to 230 MW",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "Nordic data center operator atNorth on October 5, 2026 announced plans to develop FIN05, a new data center in Salo, Finland. The company expects to invest approximately €2 billion in the 28.6-hectare site, where power for a planned 75 MW first phase is secured, with a path to up to 230 MW for the wi",
-          "link": "https://www.unite.ai/atnorth-plans-fin05-data-center-in-salo-finland-with-path-to-230-mw/",
-          "publishedAt": "2026-10-05"
+          "summary": "你下班了，Arti 还能继续工作#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1684840?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-19"
         }
       ]
     }
