@@ -1,7 +1,7 @@
 {
-  "week": "2026年第43周",
-  "dateRange": "2026-10-19 至 2026-10-25",
-  "generatedAt": "2026-10-19T15:23:07.273825Z",
+  "week": "2026年第44周",
+  "dateRange": "2026-10-26 至 2026-11-01",
+  "generatedAt": "2026-10-26T14:58:43.655275Z",
   "modules": [
     {
       "name": "政声传递",
@@ -18,12 +18,36 @@
       "description": "企业产品发布、技术突破、市场融资、行业会议",
       "news": [
         {
-          "title": "早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产",
+          "title": "新 iPad mini 发布：5499 元起！应有尽有，除了高刷",
           "source": "爱范儿",
           "importance": "high",
-          "summary": "· 曝三星拟采用台积电 3nm 工艺，为英伟达定制 HBM · 智界拟取得独立造车资质，内部人士确认独立上市计划 · Tibo 回应 Codex 用户许愿：五项建议中有两项正在做#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-19"
+          "summary": "好消息：OLED 坏消息：60Hz#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "title": "25.98 万元起，魏牌高山 8 HEV 上市，想跟燃油 MPV 们掰掰手腕",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "魏牌高山想在细分市场进一步发力。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "title": "最不「猛士」的猛士来了，X700 上市 20.98 万元起，却最适合大多数人",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "一台最舒适的猛士。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1685866?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-26"
+        },
+        {
+          "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+          "source": "爱范儿",
+          "importance": "high",
+          "summary": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-26"
         }
       ]
     },
@@ -32,196 +56,148 @@
       "description": "其他 AI 相关新闻",
       "news": [
         {
-          "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+          "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
           "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the Univ",
-          "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-          "publishedAt": "2026-10-19"
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive dire",
+          "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+          "title": "The focus on AI safety disasters ignores everyday harms",
           "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and liche",
-          "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
-          "publishedAt": "2026-10-19"
+          "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th",
+          "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-          "source": "MIT Technology Review",
-          "importance": "medium",
-          "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were",
-          "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-          "publishedAt": "2026-10-19"
-        },
-        {
-          "title": "How far can we push computing?",
-          "source": "MIT Technology Review",
-          "importance": "medium",
-          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richar",
-          "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-          "publishedAt": "2026-10-19"
-        },
-        {
-          "title": "Michael Heinrich, Co-Founder and CEO of 0G – Interview Series",
+          "title": "Why AI-Generated Text Is Harder to Understand Than You Think",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Michael Heinrich, Co-Founder and CEO of 0G, is a serial entrepreneur, investor, and technology executive focused on building decentralized infrastructure for artificial intelligence. At 0G, he is leading the development of infrastructure designed to make AI more open, verifiable, and accessible. Hei",
-          "link": "https://www.unite.ai/michael-heinrich-co-founder-and-ceo-of-0g-interview-series/",
-          "publishedAt": "2026-10-19"
+          "summary": "AI models may be becoming harder to understand because their training increasingly rewards solving problems efficiently rather than explaining things clearly to humans. The above, unedited sentence was written by ChatGPT in response to a request for an ELI5, single-sentence summary of a science pape",
+          "link": "https://www.unite.ai/why-ai-generated-text-is-harder-to-understand-than-you-think/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "AI-Generated Faces Could Be Making Real People Less Employable",
+          "title": "iMerit Launches Scholars Platform to Scale Expert-Led AI Training and Evaluation",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "You don&#039;t really need scientists to know that personal attractiveness opens doors, since you&#039;ve likely been the victim or the beneficiary of this to some extent in your life; nor to discover that AI-generated faces tend to be more attractive than real people (for a variety of reasons, many",
-          "link": "https://www.unite.ai/ai-generated-faces-could-be-making-real-people-less-employable/",
-          "publishedAt": "2026-10-19"
+          "summary": "A model can produce a convincing medical explanation or a fluent answer to a mathematics problem and still make a mistake that only a specialist will recognize. That need for expert judgment sits behind iMerit&#039;s launch of the iMerit Scholars platform, a system designed to organize the people wh",
+          "link": "https://www.unite.ai/imerit-scholars-platform-expert-ai-training-evaluation/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "Microsoft Adds Guardian Agents to Project Perception for AI Insider Risk",
+          "title": "Adit Abraham, Co-Founder and CEO of Reducto – Interview Series",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Microsoft on October 19, 2026, announced new security capabilities in Project Perception and Microsoft 365 E7 that treat enterprise AI agents as potential insider threats, introducing Guardian Agents that supervise agent actions continuously and policy controls that adjust what each agent is allowed",
-          "link": "https://www.unite.ai/microsoft-adds-guardian-agents-to-project-perception-for-ai-insider-risk/",
-          "publishedAt": "2026-10-19"
+          "summary": "Adit Abraham is the Co-Founder and CEO of Reducto, where he focuses on turning complex enterprise documents into reliable data for AI applications. Before founding the company with fellow MIT graduate Raunak Chowdhuri, he studied computer science at MIT, conducted machine learning research at the MI",
+          "link": "https://www.unite.ai/adit-abraham-co-founder-and-ceo-of-reducto-interview-series/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "SandboxAQ Adds Trust and ROI Tools to Switch AI Agent Platform",
+          "title": "In Payroll, the Most Dangerous AI Errors Look Correct",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "SandboxAQ on October 19, 2026, announced an expansion of its Switch AI platform for enterprises adopting AI agents, introducing Switch Trust, for finding, testing, and guarding agents, and Switch ROI, which tracks the cost and value of each agent. The Palo Alto, California-based company said the two",
-          "link": "https://www.unite.ai/sandboxaq-adds-trust-and-roi-tools-to-switch-ai-agent-platform/",
-          "publishedAt": "2026-10-19"
+          "summary": "Payroll is one of the few business processes where every mistake carries a name, an amount, and a date. That is why AI in payroll deserves a more careful conversation, as most of the discussion concentrates on what AI catches. The harder question is what AI changes while no one is watching. I have s",
+          "link": "https://www.unite.ai/ai-payroll-automation-risks-auditability/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "Why Doomsday Is a Distraction, and the Real AI Risk We Should Be Worried About",
+          "title": "Will Bodewes, Co-Founder and CEO of Phonely – Interview Series",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "If you consume any news media, it is hard to ignore the rising alarmism surrounding the AI industry and doomsday warnings. The narrative, which warns of the ‘existential risk’ AI systems pose to humanity, has made it all too easy for cybersecurity firms to jump on the bandwagon and let fear do the s",
-          "link": "https://www.unite.ai/agentic-ai-cybersecurity-risks-deterministic-safeguards/",
-          "publishedAt": "2026-10-19"
+          "summary": "Will Bodewes is the Co-Founder and CEO of Phonely, a voice AI company focused on helping businesses answer calls and improve the outcomes of customer conversations. Before starting the company, he pursued a PhD at the University of Melbourne, researching applied artificial intelligence and systems t",
+          "link": "https://www.unite.ai/will-bodewes-co-founder-and-ceo-of-phonely-interview-series/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "AICPA and AIUC Pair SOC 2 Reports With AIUC-1 Certification",
+          "title": "Anthropic Files S-1 Registration Statement for Nasdaq IPO",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "The American Institute of CPAs and the Artificial Intelligence Underwriting Company on October 19, 2026 announced a joint assurance certification that combines a SOC 2 report with AIUC-1 certification, delivered as a single report from one CPA-led engagement covering AI systems and agents. The organ",
-          "link": "https://www.unite.ai/aicpa-and-aiuc-pair-soc-2-reports-with-aiuc-1-certification/",
-          "publishedAt": "2026-10-19"
+          "summary": "Anthropic, PBC publicly filed a Form S-1 registration statement with the U.S. Securities and Exchange Commission on October 26, 2026, for an initial public offering of its Class A common stock. The company has applied to list the shares on the Nasdaq Global Select Market. SEC filing records show the",
+          "link": "https://www.unite.ai/anthropic-files-s-1-registration-statement-for-nasdaq-ipo/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "NorForge Details 20+ Exposed Cairn Panels Used in AI-Driven Intrusions",
+          "title": "Software Cloning – Is Paid Software Really Over?",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Security research firm NorForge on October 19, 2026 published Inside Cairn, an investigation that identified more than 20 publicly exposed control panels for the Cairn AI problem-solving harness as likely associated with malicious, financially motivated intrusion activity. The exposed panels provide",
-          "link": "https://www.unite.ai/norforge-details-20-plus-exposed-cairn-panels-used-in-ai-driven-intrusions/",
-          "publishedAt": "2026-10-19"
+          "summary": "Recent headlines of developers using AI tools to clone popular paid software – most notably Adobe - has sparked mixed reactions – from accusations of theft to welcoming free open-source tools. But what does it mean for the tech companies who own the original software – or those who pay costly subscr",
+          "link": "https://www.unite.ai/ai-software-cloning-enterprise-value/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "monday.com Launches Harmony, Betting on Specialized Models for Voice AI Sales Agents",
+          "title": "IBM Makes Spyre Accelerator a First-Class PyTorch Backend",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Sales teams can lose an interested customer in the gap between an inquiry and a return call. Harmony, a voice AI platform built by monday.com, is launching with a system designed to handle those conversations using a collection of smaller, task-specific language models. Announced on October 19, the ",
-          "link": "https://www.unite.ai/monday-com-harmony-voice-ai-sales-agents/",
-          "publishedAt": "2026-10-19"
+          "summary": "IBM said in an IBM Research blog post published October 26, 2026 that software updates delivered across the PyTorch ecosystem in the second half of 2026 have made its Spyre dataflow accelerator a first-class PyTorch backend, delivering on a plan IBM and the PyTorch Foundation outlined in October 202",
+          "link": "https://www.unite.ai/ibm-makes-spyre-accelerator-a-first-class-pytorch-backend/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "Huntington Bank Unveils 1866 Studio AI Operating System for Small Business",
+          "title": "What Are Computer-Using Agents? How AI Sees, Clicks, Types, and Navigates Software",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "The Huntington National Bank announced The 1866 Studio on October 19, 2026, describing it as an AI-powered operating system for prospective and current small business owners built with Gemini platform, Google Cloud&#039;s AI platform. Early-access signups opened the same day and are not limited to H",
-          "link": "https://www.unite.ai/huntington-bank-unveils-1866-studio-ai-operating-system-for-small-business/",
-          "publishedAt": "2026-10-19"
+          "summary": "Computer-using agents operate software through screens, cursors, and keyboards much like people do. That generality is powerful, but visual uncertainty, long task horizons, and broad permissions make careful controls essential.",
+          "link": "https://www.unite.ai/what-are-computer-using-ai-agents/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "Binance AI Pro Turns Trading Ideas Into Tested Automated Workflows",
+          "title": "Colare Raises $2.5M to Test Hardware Engineers Through Real-World Simulations",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Binance launched Binance AI Pro on October 19, 2026, a conversational AI agent that turns trading ideas described in plain language into tested, automated workflows, the company announced on the Binance Blog. The product is available to all Binance users on the web and in the Binance app, with no se",
-          "link": "https://www.unite.ai/binance-ai-pro-turns-trading-ideas-into-tested-automated-workflows/",
-          "publishedAt": "2026-10-19"
+          "summary": "A polished résumé can tell a hardware company where an engineer has worked. It is much less revealing about how that person will diagnose a circuit, balance thermal constraints or design a part that can actually be manufactured. Colare is building its hiring platform around that gap, launching publi",
+          "link": "https://www.unite.ai/colare-raises-2-5m-hardware-engineering-hiring-simulations/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "What Is Differential Privacy? Protecting Personal Data in Machine Learning",
+          "title": "GXO, Agility Robotics Expand Digit Humanoid Deployments to More U.S. Sites",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Differential privacy is a mathematical framework that limits how much an algorithm&#039;s output can change when any one person&#039;s record is added or removed. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
-          "link": "https://www.unite.ai/what-is-differential-privacy-protecting-personal-data-in-machine-learning/",
-          "publishedAt": "2026-10-19"
+          "summary": "GXO Logistics and Agility Robotics on October 26, 2026 announced an expansion of their partnership that will deploy Agility&#039;s Digit humanoid robots to GXO logistics sites in North Carolina and Tennessee, with deployments expected to begin in early 2027. The Expanded Agreement Under the expanded",
+          "link": "https://www.unite.ai/gxo-agility-robotics-expand-digit-humanoid-deployments-to-more-u-s-sites/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "Salesforce Names Madrid EMEA South Hub in Five-Year Spain Investment",
+          "title": "When AI Safety Stops Looking Like Engineering",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Salesforce announced plans to invest $1 billion in Spain over the next five years on October 19, 2026, naming Madrid the hub of its EMEA South operations during the official inauguration of a new headquarters in the city. The announcement was made at the headquarters inauguration, an event attended ",
-          "link": "https://www.unite.ai/salesforce-names-madrid-emea-south-hub-in-five-year-spain-investment/",
-          "publishedAt": "2026-10-19"
+          "summary": "I have spent much of my career building technology where getting things wrong has consequences. In financial markets, safety comes with access limits, in addition to the fact that we have someone accountable for whatever the software does. That background probably explains why I find myself struggli",
+          "link": "https://www.unite.ai/ai-model-welfare-safety-human-control/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "3 Mistakes Retail C-Suites and Boardrooms Are Making When it Comes to AI",
+          "title": "EBRD Taps Cognizant for Five-Year AI-Led Tech Blueprint Partnership",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Earlier this year, my company surveyed CIOs and CTOs at companies making $500M+ in annual revenue about how their brands were approaching AI. Across these executives, 84% agreed that only those AI projects that resulted in ROI would survive the year, and 82% agreed that their boards were increasingl",
-          "link": "https://www.unite.ai/ai-investment-mistakes-retail-strategy/",
-          "publishedAt": "2026-10-19"
+          "summary": "Cognizant announced on October 26, 2026 that the European Bank for Reconstruction and Development has selected it as a strategic partner under a five-year framework supporting the Bank&#039;s Tech Blueprint technology transformation programme. The programme&#039;s stated focus is efficiency, effecti",
+          "link": "https://www.unite.ai/ebrd-taps-cognizant-for-five-year-ai-led-tech-blueprint-partnership/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "UK Council for Science and Technology Publishes AI Sovereignty Advice",
+          "title": "SWI Compute Debuts With Plans for NVIDIA AI Factories Across Europe",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "The Council for Science and Technology on October 19, 2026, published a letter of advice to Minister for AI Kanishka Narayan on how the UK can build and direct its own AI capability, setting out four recommendations aimed at what the Council calls AI sovereignty. The letter is dated July 30, 2026, a",
-          "link": "https://www.unite.ai/uk-council-for-science-and-technology-publishes-ai-sovereignty-advice/",
-          "publishedAt": "2026-10-19"
+          "summary": "SWI Compute, a new AI infrastructure company within Euronext Amsterdam-listed SWI Group, emerged from stealth on October 26, 2026, announcing plans to build and operate NVIDIA AI factories starting in Europe, backed by 3.6 gigawatts of power capacity and approximately $1 billion in NVIDIA systems or",
+          "link": "https://www.unite.ai/swi-compute-debuts-with-plans-for-nvidia-ai-factories-across-europe/",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "Ultima UG200 Chosen for 80,000-Sample UK Biobank Immune Study",
-          "source": "Unite.AI",
-          "importance": "medium",
-          "summary": "In an announcement dated October 19, 2026, Ultima Genomics said its UG200 Sequencing Platform has been selected to power a large-scale single-cell immune profiling study with IMU Biosciences and UK Biobank, covering an initial 80,000 blood samples from UK Biobank participants and producing a foundat",
-          "link": "https://www.unite.ai/ultima-ug200-chosen-for-80-000-sample-uk-biobank-immune-study/",
-          "publishedAt": "2026-10-19"
-        },
-        {
-          "title": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
+          "title": "地铁里的 AI 伪人广告，正在集体霸凌人类",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "给屏幕装上脖子#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1684921?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-19"
+          "summary": "唯有诚意与创意不可辜负#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1685809?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-26"
         },
         {
-          "title": "我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来",
+          "title": "《影之刃零》：第一个登上世界舞台的「中国武侠游戏」",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "好用到原地「起飞」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1684880?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-19"
-        },
-        {
-          "title": "‌‍⁢⁡⁤⁢⁣‬⁢⁤微信鸿蒙版两周年小记：两群人，一件难事，从陌生到并肩的700天‌⁣‌﻿‬⁡⁢​⁢⁢‍‬​​⁡‍⁤​​⁤‍⁣‬⁡​​⁣​‬⁣⁣‍‍⁤​‌​⁢⁢‌",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "平台与伙伴并肩作战、克服困难，其中辛酸故事不为人知#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1684608?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-19"
-        },
-        {
-          "title": "微信鸿蒙版两周年背后，你不知道的故事",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "从零重写，两年从 1.0 追到 8.0。这是微信鸿蒙版，和它背后那群人的故事。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1684869?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-19"
-        },
-        {
-          "title": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "你下班了，Arti 还能继续工作#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1684840?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-19"
+          "summary": "国产 3A，再一次震撼世界#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1685506?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-10-26"
         }
       ]
     }
