@@ -1,7 +1,7 @@
 {
-  "week": "2026年第44周",
-  "dateRange": "2026-10-26 至 2026-11-01",
-  "generatedAt": "2026-10-26T14:58:43.655275Z",
+  "week": "2026年第45周",
+  "dateRange": "2026-11-02 至 2026-11-08",
+  "generatedAt": "2026-11-02T18:00:47.540116Z",
   "modules": [
     {
       "name": "政声传递",
@@ -18,36 +18,12 @@
       "description": "企业产品发布、技术突破、市场融资、行业会议",
       "news": [
         {
-          "title": "新 iPad mini 发布：5499 元起！应有尽有，除了高刷",
-          "source": "爱范儿",
-          "importance": "high",
-          "summary": "好消息：OLED 坏消息：60Hz#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-26"
-        },
-        {
-          "title": "25.98 万元起，魏牌高山 8 HEV 上市，想跟燃油 MPV 们掰掰手腕",
+          "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "魏牌高山想在细分市场进一步发力。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-26"
-        },
-        {
-          "title": "最不「猛士」的猛士来了，X700 上市 20.98 万元起，却最适合大多数人",
-          "source": "爱范儿",
-          "importance": "medium",
-          "summary": "一台最舒适的猛士。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1685866?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-26"
-        },
-        {
-          "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
-          "source": "爱范儿",
-          "importance": "high",
-          "summary": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-26"
+          "summary": "· 多家车企公布 10 月成绩单 · 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用 · 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-11-02"
         }
       ]
     },
@@ -56,148 +32,276 @@
       "description": "其他 AI 相关新闻",
       "news": [
         {
-          "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+          "title": "Raising the quality of insights in agentic analytics",
           "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive dire",
-          "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-          "publishedAt": "2026-10-26"
+          "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
+          "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "The focus on AI safety disasters ignores everyday harms",
+          "title": "Stop counting tokens, start counting what ships",
           "source": "MIT Technology Review",
           "importance": "medium",
-          "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th",
-          "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-          "publishedAt": "2026-10-26"
+          "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
+          "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "Why AI-Generated Text Is Harder to Understand Than You Think",
+          "title": "The Download: the agentic web arrives and the drive for safer roads",
+          "source": "MIT Technology Review",
+          "importance": "medium",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by auton",
+          "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "The agentic web is here",
+          "source": "MIT Technology Review",
+          "importance": "medium",
+          "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
+          "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "ON1 Brings Photo RAW 2027 to Mac and Windows With Local AI Tools",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "AI models may be becoming harder to understand because their training increasingly rewards solving problems efficiently rather than explaining things clearly to humans. The above, unedited sentence was written by ChatGPT in response to a request for an ELI5, single-sentence summary of a science pape",
-          "link": "https://www.unite.ai/why-ai-generated-text-is-harder-to-understand-than-you-think/",
-          "publishedAt": "2026-10-26"
+          "summary": "ON1 released Photo RAW 2027 for Mac and Windows on November 2, 2026, adding a new RAW processing engine, revised NoNoise AI models and an AI Culling Assistant available only in the MAX edition. Both Photo RAW 2027 and Photo RAW MAX 2027 run as standalone applications and share the core editing, AI a",
+          "link": "https://www.unite.ai/on1-brings-photo-raw-2027-to-mac-and-windows-with-local-ai-tools/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "iMerit Launches Scholars Platform to Scale Expert-Led AI Training and Evaluation",
+          "title": "42AI Launches a Behavioral World Model to Predict Human Decisions",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "A model can produce a convincing medical explanation or a fluent answer to a mathematics problem and still make a mistake that only a specialist will recognize. That need for expert judgment sits behind iMerit&#039;s launch of the iMerit Scholars platform, a system designed to organize the people wh",
-          "link": "https://www.unite.ai/imerit-scholars-platform-expert-ai-training-evaluation/",
-          "publishedAt": "2026-10-26"
+          "summary": "Most AI systems are built to interpret information or generate an answer. 42AI is pursuing a different question: how will a particular person respond when circumstances change? The company has emerged from stealth with what it calls a Behavioral World Model, positioning human behavior as a distinct ",
+          "link": "https://www.unite.ai/42ai-behavioral-world-model-human-decisions/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "Adit Abraham, Co-Founder and CEO of Reducto – Interview Series",
+          "title": "Sarah Webb, COO and Co-Founder of LawVu – Interview Series",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Adit Abraham is the Co-Founder and CEO of Reducto, where he focuses on turning complex enterprise documents into reliable data for AI applications. Before founding the company with fellow MIT graduate Raunak Chowdhuri, he studied computer science at MIT, conducted machine learning research at the MI",
-          "link": "https://www.unite.ai/adit-abraham-co-founder-and-ceo-of-reducto-interview-series/",
-          "publishedAt": "2026-10-26"
+          "summary": "Sarah Webb is COO and Co-Founder of LawVu, bringing a background in engineering and software leadership that includes roles at LOVEFiLM and Amazon. She joined LawVu as CTO in 2015 and became COO in 2020, combining experience across technology, operations, security, and governance. Her work focuses o",
+          "link": "https://www.unite.ai/sarah-webb-coo-and-co-founder-of-lawvu-interview-series/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "In Payroll, the Most Dangerous AI Errors Look Correct",
+          "title": "42AI Secures $62.5M in Seed Funding for Behavioral World Model",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Payroll is one of the few business processes where every mistake carries a name, an amount, and a date. That is why AI in payroll deserves a more careful conversation, as most of the discussion concentrates on what AI catches. The harder question is what AI changes while no one is watching. I have s",
-          "link": "https://www.unite.ai/ai-payroll-automation-risks-auditability/",
-          "publishedAt": "2026-10-26"
+          "summary": "TechCrunch reported on November 2, 2026, that Israeli startup 42AI had exited stealth with $62.5 million in seed funding and a behavioral world model operating at financial brokerages. The founders told TechCrunch that the system estimates probabilities for how individual clients may act under chang",
+          "link": "https://www.unite.ai/42ai-secures-62-5m-in-seed-funding-for-behavioral-world-model/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "Will Bodewes, Co-Founder and CEO of Phonely – Interview Series",
+          "title": "What Should Enterprises Own in Their AI Stack?",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Will Bodewes is the Co-Founder and CEO of Phonely, a voice AI company focused on helping businesses answer calls and improve the outcomes of customer conversations. Before starting the company, he pursued a PhD at the University of Melbourne, researching applied artificial intelligence and systems t",
-          "link": "https://www.unite.ai/will-bodewes-co-founder-and-ceo-of-phonely-interview-series/",
-          "publishedAt": "2026-10-26"
+          "summary": "The next phase of AI transformation will be about what companies can learn from every decision it makes, as well as who owns that learning Conversations surrounding AI have been focused on one main question: what can these models do? They were benchmarked, piloted, and marveled at, and it was the ri",
+          "link": "https://www.unite.ai/agentic-enterprise-ai-learning-loop-ownership/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "Anthropic Files S-1 Registration Statement for Nasdaq IPO",
+          "title": "Anthropic Details Long-Term Compute Commitments in Amended IPO Filing",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Anthropic, PBC publicly filed a Form S-1 registration statement with the U.S. Securities and Exchange Commission on October 26, 2026, for an initial public offering of its Class A common stock. The company has applied to list the shares on the Nasdaq Global Select Market. SEC filing records show the",
-          "link": "https://www.unite.ai/anthropic-files-s-1-registration-statement-for-nasdaq-ipo/",
-          "publishedAt": "2026-10-26"
+          "summary": "Anthropic, PBC disclosed approximately $895.4 billion of purchase commitments and lease agreements in an amended Form S-1 filed November 2, 2026, saying substantially all relates to compute and infrastructure. The preliminary prospectus also adds third-quarter 2026 results as the company prepares an",
+          "link": "https://www.unite.ai/anthropic-details-long-term-compute-commitments-in-amended-ipo-filing/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "Software Cloning – Is Paid Software Really Over?",
+          "title": "Putin Orders 10% Data Center Reserve for Russian Information Resources",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Recent headlines of developers using AI tools to clone popular paid software – most notably Adobe - has sparked mixed reactions – from accusations of theft to welcoming free open-source tools. But what does it mean for the tech companies who own the original software – or those who pay costly subscr",
-          "link": "https://www.unite.ai/ai-software-cloning-enterprise-value/",
-          "publishedAt": "2026-10-26"
+          "summary": "Russian President Vladimir Putin signed a decree on November 2, 2026 requiring covered non-government data-center owners in Russia to reserve 10% of their floor space and capacity for Russian information resources, according to a Kremlin announcement. The signed decree gives those owners no more tha",
+          "link": "https://www.unite.ai/putin-orders-10-data-center-reserve-for-russian-information-resources/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "IBM Makes Spyre Accelerator a First-Class PyTorch Backend",
+          "title": "Ali Hayat, CEO and Founder of Axipro – Interview Series",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "IBM said in an IBM Research blog post published October 26, 2026 that software updates delivered across the PyTorch ecosystem in the second half of 2026 have made its Spyre dataflow accelerator a first-class PyTorch backend, delivering on a plan IBM and the PyTorch Foundation outlined in October 202",
-          "link": "https://www.unite.ai/ibm-makes-spyre-accelerator-a-first-class-pytorch-backend/",
-          "publishedAt": "2026-10-26"
+          "summary": "Ali Hayat is CEO and founder of Axipro, combining a background in industrial risk management and ISO auditing with experience in cybersecurity and compliance consulting. His early work involved high-stakes industrial environments, where safety, regulatory requirements, and operational risk were cent",
+          "link": "https://www.unite.ai/ali-hayat-ceo-and-founder-of-axipro-interview-series/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "What Are Computer-Using Agents? How AI Sees, Clicks, Types, and Navigates Software",
+          "title": "Clark Raises $11M Seed to Bring AI Audit Employees to More CPA Firms",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Computer-using agents operate software through screens, cursors, and keyboards much like people do. That generality is powerful, but visual uncertainty, long task horizons, and broad permissions make careful controls essential.",
-          "link": "https://www.unite.ai/what-are-computer-using-ai-agents/",
-          "publishedAt": "2026-10-26"
+          "summary": "Clark launched Clerks, which it describes as autonomous AI employees for CPA-firm audit work, and announced an $11 million seed round on November 2, 2026. Touring Capital led the round, joined by returning investors Marathon Management Partners, Rerail and Sofeon Ventures. In a release distributed b",
+          "link": "https://www.unite.ai/clark-raises-11m-seed-to-bring-ai-audit-employees-to-more-cpa-firms/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "Colare Raises $2.5M to Test Hardware Engineers Through Real-World Simulations",
+          "title": "Perplexity Details Brain Memory Architecture and Agent API Testing",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "A polished résumé can tell a hardware company where an engineer has worked. It is much less revealing about how that person will diagnose a circuit, balance thermal constraints or design a part that can actually be manufactured. Colare is building its hiring platform around that gap, launching publi",
-          "link": "https://www.unite.ai/colare-raises-2-5m-hardware-engineering-hiring-simulations/",
-          "publishedAt": "2026-10-26"
+          "summary": "Perplexity on November 2, 2026, published a technical guide to persistent AI agent memory, detailing the Brain system in Perplexity Computer, the Agent API’s memory-building components, and tests for whether stored context improves an agent’s later work. Brain’s Architecture and Reported Results Per",
+          "link": "https://www.unite.ai/perplexity-details-brain-memory-architecture-and-agent-api-testing/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "GXO, Agility Robotics Expand Digit Humanoid Deployments to More U.S. Sites",
+          "title": "OpenAI Launches Grid Protectors Program for Compute Campuses",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "GXO Logistics and Agility Robotics on October 26, 2026 announced an expansion of their partnership that will deploy Agility&#039;s Digit humanoid robots to GXO logistics sites in North Carolina and Tennessee, with deployments expected to begin in early 2027. The Expanded Agreement Under the expanded",
-          "link": "https://www.unite.ai/gxo-agility-robotics-expand-digit-humanoid-deployments-to-more-u-s-sites/",
-          "publishedAt": "2026-10-26"
+          "summary": "On November 2, 2026, OpenAI launched the Grid Protectors Program, a national effort to arrange for future compute campuses to reduce electricity demand when grids are under strain. Georgia is the starting point, with a planned Effingham County campus and an agreement providing up to 1,000 megawatts ",
+          "link": "https://www.unite.ai/openai-launches-grid-protectors-program-for-compute-campuses/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "When AI Safety Stops Looking Like Engineering",
+          "title": "Protecting Your Brand from AI Distortion Calls for a New Enterprise Discipline",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "I have spent much of my career building technology where getting things wrong has consequences. In financial markets, safety comes with access limits, in addition to the fact that we have someone accountable for whatever the software does. That background probably explains why I find myself struggli",
-          "link": "https://www.unite.ai/ai-model-welfare-safety-human-control/",
-          "publishedAt": "2026-10-26"
+          "summary": "AI-powered disinformation is a serious threat to brand reputations. Deliberate attacks are only part of the problem. AI systems can also misrepresent a business by relying on outdated information, confusing it with another company or making unsupported claims. For years, the content marketing indust",
+          "link": "https://www.unite.ai/ai-brand-protection-disinformation/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "EBRD Taps Cognizant for Five-Year AI-Led Tech Blueprint Partnership",
+          "title": "LinearB Launches Agentic Studio to Give Coding Agents Engineering Context",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "Cognizant announced on October 26, 2026 that the European Bank for Reconstruction and Development has selected it as a strategic partner under a five-year framework supporting the Bank&#039;s Tech Blueprint technology transformation programme. The programme&#039;s stated focus is efficiency, effecti",
-          "link": "https://www.unite.ai/ebrd-taps-cognizant-for-five-year-ai-led-tech-blueprint-partnership/",
-          "publishedAt": "2026-10-26"
+          "summary": "LinearB has launched Agentic Studio to turn software-delivery data into context that engineering leaders and coding agents can use to make decisions. Announced November 2, the platform combines natural-language analysis with an engineering context layer spanning the tools teams use to plan, write, r",
+          "link": "https://www.unite.ai/linearb-agentic-studio-coding-agents-engineering-context/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "SWI Compute Debuts With Plans for NVIDIA AI Factories Across Europe",
+          "title": "Signia Brings MaX and Active Mini IX to U.S. Government Services",
           "source": "Unite.AI",
           "importance": "medium",
-          "summary": "SWI Compute, a new AI infrastructure company within Euronext Amsterdam-listed SWI Group, emerged from stealth on October 26, 2026, announcing plans to build and operate NVIDIA AI factories starting in Europe, backed by 3.6 gigawatts of power capacity and approximately $1 billion in NVIDIA systems or",
-          "link": "https://www.unite.ai/swi-compute-debuts-with-plans-for-nvidia-ai-factories-across-europe/",
-          "publishedAt": "2026-10-26"
+          "summary": "Signia announced on November 2, 2026 that its Pure Charge&amp;Go MaX and Active Mini IX hearing aids were available through the U.S. Department of Veterans Affairs, Department of Defense, and Indian Health Service, according to the company&#039;s announcement. Mike Irby, AuD, WSA vice president of s",
+          "link": "https://www.unite.ai/signia-brings-max-and-active-mini-ix-to-u-s-government-services/",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "地铁里的 AI 伪人广告，正在集体霸凌人类",
+          "title": "Emerald AI Becomes Full Member of EPRI’s DCFlex Initiative",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Emerald AI announced on November 2, 2026 that it is joining EPRI’s DCFlex Initiative as a full member, extending a collaboration that has included six demonstrations of AI data-center flexibility with NVIDIA, utilities, grid operators and data-center partners. Emerald AI said its relationship with E",
+          "link": "https://www.unite.ai/emerald-ai-becomes-full-member-of-epris-dcflex-initiative/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "Building a People-First, AI-Powered City",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Throughout history, new technologies have triggered people’s fears, often arriving cloaked in controversy around the threat to society. Now it is AI&#039;s turn. While the concerns are justified and deserve to be addressed, history also tells us a broader truth: while technological change can cause ",
+          "link": "https://www.unite.ai/people-first-ai-cities-public-trust/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "Clarivate Connects CompuMark Trademark Data to Microsoft Copilot",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Clarivate announced on November 2, 2026 that it will bring its CompuMark trademark data and insights into Microsoft Copilot through IPOne, the company&#039;s intelligence platform for IP decisions, giving intellectual property professionals natural-language access to trademark intelligence inside Co",
+          "link": "https://www.unite.ai/clarivate-connects-compumark-trademark-data-to-microsoft-copilot/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "AI Latency vs. Throughput: TTFT, Tokens per Second, and Other Metrics Explained",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "AI latency measures how long a request or token takes, while throughput measures how much work a serving system completes per unit of time. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
+          "link": "https://www.unite.ai/ai-latency-vs-throughput-ttft-tokens-per-second-and-other-metrics-explained/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "Ebix and Intentyx Launch SMARE to Track AI Agent Behavior",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "Ebix announced a design and delivery partnership with cybersecurity company intentyx, launching an agentic AI security and governance offering for regulated industries. The offering is built around SMARE (Synthetic Mind Aware Risk Engine), intentyx&#039;s behavioral security and governance platform ",
+          "link": "https://www.unite.ai/ebix-and-intentyx-launch-smare-to-track-ai-agent-behavior/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "OpenAI’s Lehane Calls AI the Number-One Issue of the 2028 Election",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "OpenAI Chief Global Affairs Officer Chris Lehane has written a memo arguing that AI will be the number-one issue of the 2028 presidential election and laying out five questions he says candidates must answer to build an AI agenda. The memo was made public on November 2, 2026. In the memo, titled &qu",
+          "link": "https://www.unite.ai/openais-lehane-calls-ai-the-number-one-issue-of-the-2028-election/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "Why AI Agents Need Evidence Before They Retry",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "How to prevent a lost response from becoming a duplicate action A support agent authorized to generate one refund sends the request but loses the connection. The agent receives no confirmation of success and attempts to send the refund again. If the original request was successful, then the agent&#0",
+          "link": "https://www.unite.ai/ai-agent-recovery-prevent-duplicate-actions/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "Marble Cognition Raises $3.75M Pre-Seed to Build AI Coworkers That Learn by Observing",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "The hardest part of automating office work often happens before an AI agent takes its first action: figuring out what employees actually do. A workflow might cross an inbox, a spreadsheet and several business applications, with its exceptions understood by the team but never captured in a formal spe",
+          "link": "https://www.unite.ai/marble-cognition-raises-3-75m-pre-seed-ai-coworkers/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "EASE Raises $9.5M Equity to Scale AI Medical Devices in South Africa, Ghana",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "EASE Holdings BV, a Netherlands-based medical equipment-as-a-service provider, has secured US$9.5 million in additional equity from AAFC Group Inc, a U.S.-based investor in emerging-market asset-backed finance, to scale its operations in South Africa and Ghana, the company announced on November 2, 2",
+          "link": "https://www.unite.ai/ease-raises-9-5m-equity-to-scale-ai-medical-devices-in-south-africa-ghana/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "RWS Closes £22.4M Enterprise-Value Deal For Acolad Parent Acogroup",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "RWS announced on November 2, 2026 that it has completed its acquisition of Acogroup, the parent company of language and content services provider Acolad, at an enterprise value of £22.4 million, following the completion of social consultation and all regulatory approvals. RWS, a global AI solutions ",
+          "link": "https://www.unite.ai/rws-closes-22-4m-enterprise-value-deal-for-acolad-parent-acogroup/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "TIER IV Leads Autoware 2.0 Ecosystem for AI-Defined Vehicles",
+          "source": "Unite.AI",
+          "importance": "medium",
+          "summary": "TIER IV announced on November 2, 2026 that it is spearheading Autoware 2.0 initiatives in collaboration with the Autoware Foundation and the global open-source community, the same day the foundation released version 2.0 of the open-source autonomous driving software with new support for end-to-end A",
+          "link": "https://www.unite.ai/tier-iv-leads-autoware-2-0-ecosystem-for-ai-defined-vehicles/",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "唯有诚意与创意不可辜负#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1685809?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-26"
+          "summary": "AI 正在逆向一切：从软件、游戏到信息入口#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1687094?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-11-02"
         },
         {
-          "title": "《影之刃零》：第一个登上世界舞台的「中国武侠游戏」",
+          "title": "500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？",
           "source": "爱范儿",
           "importance": "medium",
-          "summary": "国产 3A，再一次震撼世界#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "link": "https://www.ifanr.com/1685506?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "publishedAt": "2026-10-26"
+          "summary": "抽签看演唱会，可能是当下最「不坏」的选择#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1687130?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "零跑破 10 万、小鹏小米跨过 5 万大关，10 月车市却迎来了最冷的「银十」",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "内卷见顶，出海将是下一站。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1687113?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "或许《Her》描绘的世界已经到来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1686832?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-11-02"
+        },
+        {
+          "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
+          "source": "爱范儿",
+          "importance": "medium",
+          "summary": "全球基模大战，疯狂 11 月正式开场#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "link": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "publishedAt": "2026-11-02"
         }
       ]
     }
